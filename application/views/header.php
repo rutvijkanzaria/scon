@@ -34,17 +34,36 @@
     </div>
 </div>
 
+<div class="topbar">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="pull-left">
+        <span class="info"><a href="#."> Have any question?</a></span>
+        <span class="info"><i class="icon-phone2"></i>(654) 332-112-222</span>
+        <span class="info"><i class="icon-mail"></i>support@edua.com</span>
+        </div>
+        <ul class="social_top pull-right">
+          <li><a href="#."><i class="fa fa-facebook"></i></a></li>
+          <li><a href="#."><i class="icon-twitter4"></i></a></li>
+          <li><a href="#."><i class="icon-google"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!--Header-->
-<header style="max-height: 88px;">
-  <nav class="navbar navbar-default navbar-sticky bootsnav pushy">
-    <div class="container-fluid">
+<header>
+  <nav class="navbar navbar-default navbar-fixed white no-background bootsnav">
+    <div class="container-fluid"> 
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
           <i class="fa fa-bars"></i>
         </button>
-        <a class="navbar-brand" href="<?php echo base_url() ?>">
-          <h2>SCON</h2>
-        </a>
+        <!-- <a class="navbar-brand" href="<?php echo base_url() ?>">
+          <img src="<?php echo base_url()?>/images/sconlogo.png">
+        </a> -->
       </div>
       <div class="collapse navbar-collapse" id="navbar-menu">
         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOut">

@@ -1009,13 +1009,13 @@ nav.navbar.bootsnav .navbar-brand{
   padding:20px  0;
 }
 nav.navbar.bootsnav .navbar-brand, nav.navbar.bootsnav.navbar-fixed.no-background .navbar-brand{
-  padding:20px  0;
+  padding:0;
 }
 nav.navbar.bootsnav.sticked .navbar-brand, nav.navbar.bootsnav.navbar-fixed .navbar-brand{
   padding:10px  0;
 }
 nav.navbar.bootsnav .navbar-brand img, nav.navbar.bootsnav.navbar-fixed.no-background .navbar-brand img{
-	width:110px;
+	width:200px;
 }
 nav.navbar.bootsnav.sticked .navbar-brand img, nav.navbar.bootsnav.navbar-fixed .navbar-brand img{
 	width:90px;

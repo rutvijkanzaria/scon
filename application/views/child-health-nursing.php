@@ -1,8 +1,3 @@
-<?php
-  $dept = 'active';
-  include './templates/header.php';
-?>
-
 <!--Page Header-->
 <section class="page_header child_nursing padding-top">
   <div class="container">
@@ -25,7 +20,7 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-8 course_detail wow fadeIn" data-wow-delay="400ms">
-        <img src=<?php echo base_url() ?>/images/dept/child-nursing-main.jpg" alt="Course" class=" border_radius img-responsive bottom15">
+        <img src="<?php echo base_url() ?>/images/dept/child-nursing-main.jpg" alt="Course" class=" border_radius img-responsive bottom15">
         <h3 class="top30 bottom20">Overview</h3>
         <p class="bottom25">The department of Child Health Nursing has established in the year of 1995, We provides students to find the best evidence-based options for caring for infants, children and adolescents to enable the application of best practice in clinical settings. We are committed to providing an environment which supports tailored learning and research-based nurse practice development concurrently.
         </p>
@@ -90,7 +85,3 @@
   </div>
 </section>
 <!-- Courses -->
-
-<?php
-  include './templates/footer.php';
-?>

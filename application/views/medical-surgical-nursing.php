@@ -1,8 +1,3 @@
-<?php
-  $dept = 'active';
-  include './templates/header.php';
-?>
-
 <!--Page Header-->
 <section class="page_header medical_nursing padding-top">
   <div class="container">
@@ -25,7 +20,7 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-8 course_detail wow fadeIn" data-wow-delay="400ms">
-        <img src="images/dept/medic-nursing-main.jpg" alt="Course" class=" border_radius img-responsive bottom15">
+        <img src="<?php echo base_url() ?>/images/dept/medic-nursing-main.jpg" alt="Course" class=" border_radius img-responsive bottom15">
         <!-- <div class="detail_course">
           <div class="info_label">
             <span class="icony"><i class="icon-users3"></i></span>
@@ -157,7 +152,3 @@
   </div>
 </section>
 <!-- Courses -->
-
-<?php
-  include './templates/footer.php';
-?>

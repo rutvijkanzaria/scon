@@ -42,17 +42,17 @@
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
           <i class="fa fa-bars"></i>
         </button>
-        <a class="navbar-brand" href="./">
-        <h2>SCON</h2>
+        <a class="navbar-brand" href="<?php echo base_url() ?>">
+          <h2>SCON</h2>
         </a>
       </div>
       <div class="collapse navbar-collapse" id="navbar-menu">
         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOut">
-        <li class='<?php if($active_page == 'home') echo 'active' ?>' ><a href="./">Home</a></li>
+        <li class='<?php if($active_page == 'home') echo 'active' ?>' ><a href="<?php echo base_url() ?>">Home</a></li>
           <li class="dropdown <?php if($active_page == 'about') echo 'active' ?>">
             <a href="#" class="dropdown-toggle dropdown" data-toggle="dropdown" >About</a>
             <ul class="dropdown-menu">
-              <li><a href="./history.php">Our History- Inception</a></li>
+              <li><a href="<?php echo base_url()?>about/history">Our History- Inception</a></li>
               <li><a href="#">Vision & Mission + Quality Policy</a></li>
               <li><a href="#">Accreditation & Recognitions</a></li>
               <li><a href="#">Committees & Authorities</a></li>
@@ -73,8 +73,8 @@
           <li class="dropdown <?php if($active_page == 'dept') echo 'active' ?>">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >DEPARTMENTS</a>
             <ul class="dropdown-menu">
-              <li><a href="./medical-surgical-nursing.php">Medical Surgical Nursing</a></li>
-              <li><a href="./child-health-nursing.php">Child Health Nursing</a></li>
+              <li><a href="<?php echo base_url()?>MedicalSurgicalNursing">Medical Surgical Nursing</a></li>
+              <li><a href="<?php echo base_url()?>ChildHealthNursing">Child Health Nursing</a></li>
               <li><a href="#">Community Health Nursing</a></li>
               <li><a href="#">Mental Health Nursing</a></li>
               <li><a href="#">Obstetrics and Gynaecological Nursing</a></li>

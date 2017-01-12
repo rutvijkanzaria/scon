@@ -15,6 +15,7 @@
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>css/settings.css">
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>css/bootsnav.css">
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>css/style.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>css/style_custom.css">
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>css/loader.css">
 
 <link rel="icon" href="<?php echo base_url()?>images/favicon.png">
@@ -72,10 +73,10 @@
             <a href="#" class="dropdown-toggle dropdown" data-toggle="dropdown" >About</a>
             <ul class="dropdown-menu">
               <li><a href="<?php echo base_url()?>about/history">Our History- Inception</a></li>
-              <li><a href="#">Vision & Mission + Quality Policy</a></li>
-              <li><a href="#">Accreditation & Recognitions</a></li>
-              <li><a href="#">Committees & Authorities</a></li>
-              <li><a href="#">Location & Accessibility</a></li>
+              <li><a href="<?php echo base_url()?>about/vision">Vision & Mission + Quality Policy</a></li>
+              <li><a href="<?php echo base_url()?>about/accreditation">Accreditation & Recognitions</a></li>
+              <li><a href="<?php echo base_url()?>about/committees">Committees & Authorities</a></li>
+              <li><a href="<?php echo base_url()?>about/location">Location & Accessibility</a></li>
             </ul>
           </li>
           <li class="dropdown">

@@ -93,12 +93,12 @@
           <li class="dropdown <?php if($active_page == 'dept') echo 'active' ?>">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >DEPARTMENTS</a>
             <ul class="dropdown-menu">
-              <li><a href="<?php echo base_url()?>MedicalSurgicalNursing">Medical Surgical Nursing</a></li>
-              <li><a href="<?php echo base_url()?>ChildHealthNursing">Child Health Nursing</a></li>
-              <li><a href="#">Community Health Nursing</a></li>
-              <li><a href="#">Mental Health Nursing</a></li>
-              <li><a href="#">Obstetrics and Gynaecological Nursing</a></li>
-              <li><a href="#">Department of Nursing Foundation</a></li>
+              <li><a href="<?php echo base_url()?>department/medical_surgical_nursing">Medical Surgical Nursing</a></li>
+              <li><a href="<?php echo base_url()?>department/child_health_nursing">Child Health Nursing</a></li>
+              <li><a href="<?php echo base_url()?>department/community_health_nursing">Community Health Nursing</a></li>
+              <li><a href="<?php echo base_url()?>department/mental_health_nursing">Mental Health Nursing</a></li>
+              <li><a href="<?php echo base_url()?>department/obstetrics_gynaecological_nursing">Obstetrics and Gynaecological Nursing</a></li>
+              <li><a href="<?php echo base_url()?>department/nursing_foundation">Department of Nursing Foundation</a></li>
             </ul>
           </li>
           <li class="dropdown">

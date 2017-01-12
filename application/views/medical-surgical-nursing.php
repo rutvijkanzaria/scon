@@ -19,7 +19,7 @@
 <section id="course_all" class="padding-bottom-half padding-top">
   <div class="container">
     <div class="row">
-      <div class="col-sm-8 course_detail wow fadeIn" data-wow-delay="400ms">
+      <div class="col-sm-offset-1 col-sm-10 course_detail wow fadeIn" data-wow-delay="400ms">
         <img src="<?php echo base_url() ?>/images/dept/medic-nursing-main.jpg" alt="Course" class=" border_radius img-responsive bottom15">
         <!-- <div class="detail_course">
           <div class="info_label">
@@ -70,6 +70,65 @@
           </div>
         </div>
         <div class="bottom15"></div>
+
+				<!-- Faculties -->
+
+        <div class="profile_bg heading_space">
+          <h3 class="bottom20">Faculties</h3>
+
+          <div class="profile bottom25">
+            <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Dr.S.Aruna.jpg" alt="Course"></div>
+            <div class="profile_text">
+              <h5><strong>DR. S. ARUNA</strong>  -  <span>Professor & HOD</span></h5>
+            </div>
+          </div>
+
+          <div class="profile bottom25">
+            <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Thenmozhi.P.jpeg" alt="Course"></div>
+            <div class="profile_text">
+              <h5><strong>MRS. THENMOZHI. P</strong>  -  <span>Associate Professor</span></h5>
+            </div>
+          </div>
+
+          <div class="profile bottom25">
+            <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Ms.Varalakshmi.jpg" alt="Course"></div>
+            <div class="profile_text">
+              <h5><strong>MS. VARALAKSHMI. E</strong>  -  <span>Associate Professor</span></h5>
+            </div>
+          </div>
+
+          <div class="profile bottom25">
+            <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mr. Ruban David.jpg" alt="Course"></div>
+            <div class="profile_text">
+              <h5><strong>MR. RUBAN DAVID</strong>  -  <span>Associate Professor</span></h5>
+            </div>
+          </div>
+
+          <div class="profile bottom25">
+            <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mr.David Roninson.jpg" alt="Course"></div>
+            <div class="profile_text">
+              <h5><strong>MR. DAVID ROBINSON</strong>  -  <span>Tutor</span></h5>
+            </div>
+          </div>
+
+          <div class="profile bottom25">
+            <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Ms.Rajeswari.jpeg" alt="Course"></div>
+            <div class="profile_text">
+              <h5><strong>MS. RAJESWARI. M</strong>  -  <span>Tutor</span></h5>
+            </div>
+          </div>
+
+          <div class="profile bottom25">
+            <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Karpagam.jpg" alt="Course"></div>
+            <div class="profile_text">
+              <h5><strong>MRS. KARPAGAM. K</strong>  -  <span>Tutor</span></h5>
+            </div>
+          </div>
+
+        </div>
+
+
+
         <div class="profile_border">
           <div class="top20 bottom20">
             <div class="profile_text">
@@ -94,7 +153,7 @@
                 <li>Oncology Nursing</li>
                 <li>Cardio Thoracic Nursing</li>
                 <li>Critical Care Nursing</li>
-            </ul>
+	            </ul>
             </div>
           </div>
         </div>
@@ -107,47 +166,6 @@
           </div>
         </div>
       </div>
-
-      <aside class="col-sm-4 wow fadeIn" data-wow-delay="400ms">
-        <div class="widget heading_space">
-          <h3 class="bottom20">Faculty</h3>
-          <div class="media">
-            <div class="media-body">
-              <h5 class="bottom5">Dr. S. Aruna, Professor cum HOD</h5>
-            </div>
-          </div>
-          <div class="media">
-            <div class="media-body">
-              <h5 class="bottom5">Mrs. Thenmozhi. P, Assistant Professor</h5>
-            </div>
-          </div>
-          <div class="media">
-            <div class="media-body">
-              <h5 class="bottom5">Ms. Varalakshmi. E, Assistant Professor</h5>
-            </div>
-          </div>
-          <div class="media">
-            <div class="media-body">
-              <h5 class="bottom5">Mr. Ruban David, Assistant Professor</h5>
-            </div>
-          </div>
-          <div class="media">
-            <div class="media-body">
-              <h5 class="bottom5">Mr. David Robinson, Tutor</h5>
-            </div>
-          </div>
-          <div class="media">
-            <div class="media-body">
-              <h5 class="bottom5">Ms. Rajeswari. M, Tutor</h5>
-            </div>
-          </div>
-          <div class="media">
-            <div class="media-body">
-              <h5 class="bottom5">Mrs. Karpagam. K, Tutor</h5>
-            </div>
-          </div>
-        </div>
-      </aside>
     </div>
   </div>
 </section>

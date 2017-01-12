@@ -19,7 +19,7 @@
 <section id="course_all" class="padding-bottom-half padding-top">
   <div class="container">
     <div class="row">
-      <div class="col-sm-8 course_detail wow fadeIn" data-wow-delay="400ms">
+      <div class="col-sm-offset-1 col-sm-10 course_detail wow fadeIn" data-wow-delay="400ms">
         <img src="<?php echo base_url() ?>/images/dept/child-nursing-main.jpg" alt="Course" class=" border_radius img-responsive bottom15">
         <h3 class="top30 bottom20">Overview</h3>
         <p class="bottom25">The department of Child Health Nursing has established in the year of 1995, We provides students to find the best evidence-based options for caring for infants, children and adolescents to enable the application of best practice in clinical settings. We are committed to providing an environment which supports tailored learning and research-based nurse practice development concurrently.
@@ -27,6 +27,36 @@
         <p class="bottom25">We adopted the innovative teaching learning methods like WEB Forum and Self learning module to provoke  knowledge and critical thinking, communication skill and leadership quality  among students in Clinical area we are practicing CBL, Inter Professional learning to improve collaboration and the quality of care, helps students to appreciate the importance of personalities and interpersonal skills. Providing value added course on learning disabilities of children for students because   the prevalence rate of behavioural disorders are high among children. So we took a step to offer this course for the students to get the job opportunity with Hospital and Learning disability clinics to practice as a independent Nurse practitioner Conducting practical examination by OSPE method to assess practical competencies in an appropriate, step-wise, methodical, objective and time-orientated manner with direct observation of the student's performance during planned clinical test stations.</p>
 
         <div class="bottom15"></div>
+	
+				<!-- Faculties -->
+
+        <div class="profile_bg heading_space">
+          <h3 class="bottom20">Faculties</h3>
+
+          <div class="profile bottom25">
+            <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Mary Minolin.jpeg" alt="Course"></div>
+            <div class="profile_text">
+              <h5><strong>Mrs. Mary Minolin</strong>  -  <span>Associate Professor</span></h5>
+            </div>
+          </div>
+
+          <div class="profile bottom25">
+            <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Beautily.jpg" alt="Course"></div>
+            <div class="profile_text">
+              <h5><strong>MRS. BEAUTILY</strong>  -  <span>ASSISTANT PROFESSOR</span></h5>
+            </div>
+          </div>
+
+          <div class="profile bottom25">
+            <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Meena.jpg" alt="Course"></div>
+            <div class="profile_text">
+              <h5><strong>MRS. MEENA</strong>  -  <span>ASSISTANT PROFESSOR</span></h5>
+            </div>
+          </div>
+          
+        </div>
+
+
         <div class="profile_border">
           <div class="top20 bottom20">
             <div class="profile_text">
@@ -61,26 +91,6 @@
         </div>
       </div>
 
-      <aside class="col-sm-4 wow fadeIn" data-wow-delay="400ms">
-        <div class="widget heading_space">
-          <h3 class="bottom20">Faculty</h3>
-          <div class="media">
-            <div class="media-body">
-              <h5 class="bottom5">Mrs. Mary Minolin, Associate Professor</h5>
-            </div>
-          </div>
-          <div class="media">
-            <div class="media-body">
-              <h5 class="bottom5">Mrs. Beautily, Assistant Professor</h5>
-            </div>
-          </div>
-          <div class="media">
-            <div class="media-body">
-              <h5 class="bottom5">Mrs. Meena, Assistant Professor</h5>
-            </div>
-          </div>
-        </div>
-      </aside>
     </div>
   </div>
 </section>

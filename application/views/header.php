@@ -120,7 +120,7 @@
           <li><a href="#">RESEARCH</a></li>
           <!-- <li><a href="#">Alumni</a></li> -->
           <li><a href="#">HOSPITAL</a></li>
-          <li><a href="#">Contact Us</a></li>
+          <li><a href="<?php echo base_url() ?>contact">Contact Us</a></li>
         </ul>
       </div>
     </div>

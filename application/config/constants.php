@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+defined('GOOGLE_MAP_API_KEY') OR define('GOOGLE_MAP_API_KEY', 'AIzaSyDZDaY3trB00SnRDDbGIxtpQreucUyn7sk');
 /*
 |--------------------------------------------------------------------------
 | Display Debug backtrace

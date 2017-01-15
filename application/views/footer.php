@@ -17,12 +17,12 @@
       <div class="col-md-4 col-sm-4 footer_panel bottom25">
         <h3 class="heading bottom25">Quick Links<span class="divider-left"></span></h3>
         <ul class="links">
-          <li><a href="#"><i class="icon-chevron-small-right"></i>Home</a></li>
-          <li><a href="#"><i class="icon-chevron-small-right"></i>Infrastructure</a></li>
-          <li><a href="#"><i class="icon-chevron-small-right"></i>Research</a></li>
-          <li><a href="#"><i class="icon-chevron-small-right"></i>Alumni</a></li>
-          <li><a href="#"><i class="icon-chevron-small-right"></i>Contact Us</a></li>
-          <li><a href="#"><i class="icon-chevron-small-right"></i>Location</a></li>
+          <li><a href="<?php echo base_url() ?>"><i class="icon-chevron-small-right"></i>Home</a></li>
+          <li><a href="<?php echo base_url() ?>campus/infrastructure"><i class="icon-chevron-small-right"></i>Infrastructure</a></li>
+          <li><a href="<?php echo base_url() ?>research"><i class="icon-chevron-small-right"></i>Research</a></li>
+          <li><a href="<?php echo base_url() ?>alumni"><i class="icon-chevron-small-right"></i>Alumni</a></li>
+          <li><a href="<?php echo base_url() ?>contact"><i class="icon-chevron-small-right"></i>Contact Us</a></li>
+          <li><a href="<?php echo base_url() ?>about/location"><i class="icon-chevron-small-right"></i>Location</a></li>
         </ul>
       </div>
       <div class="col-md-4 col-sm-4 footer_panel bottom25">
@@ -63,6 +63,7 @@
 <script src="<?php echo base_url() ?>js/revolution.extension.slideanims.min.js"></script>
 <script src="<?php echo base_url() ?>js/revolution.extension.video.min.js"></script>
 <script src="<?php echo base_url() ?>js/wow.min.js"></script>
+<!-- <script src="<?php echo base_url() ?>js/gmaps.min.js"></script> -->
 <script src="<?php echo base_url() ?>js/functions.js"></script>
 
 </body>

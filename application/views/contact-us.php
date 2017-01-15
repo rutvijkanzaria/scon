@@ -75,11 +75,6 @@
 				</ul>
 			</div>
 		</div>
-		<!-- <div class="row wow bounceIn" data-wow-delay="300ms">
-			<div class="col-md-12">
-				<div id="map"></div>
-			</div>
-		</div> -->
 	</div>
 </section>
 <!--Contact Deatils -->

@@ -41,8 +41,8 @@
       <div class="col-md-12">
         <div class="pull-left">
         <span class="info"><a href="#."> Have any question?</a></span>
-        <span class="info"><i class="icon-phone2"></i>(654) 332-112-222</span>
-        <span class="info"><i class="icon-mail"></i>support@edua.com</span>
+        <span class="info"><i class="icon-phone2"></i>044 - 6672 6620</span>
+        <span class="info"><i class="icon-mail"></i>principalnursing@saveetha.com</span>
         </div>
         <ul class="social_top pull-right">
           <li><a href="#."><i class="fa fa-facebook"></i></a></li>
@@ -57,14 +57,14 @@
 <!--Header-->
 <header>
   <nav class="navbar navbar-default navbar-fixed white no-background bootsnav">
-    <div class="container-fluid"> 
+    <div class="container-fluid">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
           <i class="fa fa-bars"></i>
         </button>
-        <!-- <a class="navbar-brand" href="<?php echo base_url() ?>">
+        <a class="navbar-brand" href="<?php echo base_url() ?>">
           <img src="<?php echo base_url()?>/images/sconlogo.png">
-        </a> -->
+        </a>
       </div>
       <div class="collapse navbar-collapse" id="navbar-menu">
         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOut">
@@ -79,15 +79,31 @@
               <li><a href="<?php echo base_url()?>about/location">Location & Accessibility</a></li>
             </ul>
           </li>
-          <li class="dropdown">
+          <li class="dropdown <?php if($active_page == 'campus') echo 'active' ?>">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Campus</a>
             <ul class="dropdown-menu">
-              <li><a href="#">Infrastructure</a></li>
-              <li><a href="#">Library</a></li>
-              <li><a href="#">Hostels</a></li>
-              <li><a href="#">Transport with Bus route</a></li>
-              <li><a href="#">Recreation</a></li>
-              <li><a href="#">Student Life</a></li>
+              <li><a href="<?php echo base_url()?>campus/infrastructure">Infrastructure</a></li>
+              <li><a href="<?php echo base_url()?>campus/library">Library</a></li>
+              <li><a href="<?php echo base_url()?>campus/hostels">Hostels</a></li>
+              <li><a href="<?php echo base_url()?>campus/transport">Transport with Bus route</a></li>
+              <li><a href="<?php echo base_url()?>campus/recreation">Recreation</a></li>
+            </ul>
+          </li>
+          <li class="dropdown <?php if($active_page == 'academics') echo 'active' ?>">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Academics</a>
+            <ul class="dropdown-menu">
+              <li><a href="<?php echo base_url()?>academics/bsc">B.Sc Nursing</a></li>
+              <li><a href="<?php echo base_url()?>academics/pbbsc">P.B.B.Sc Nursing</a></li>
+              <li><a href="<?php echo base_url()?>academics/msc">Post Graduation - M.Sc. Nursing</a></li>
+            </ul>
+          </li>
+          <li class="dropdown <?php if($active_page == 'admissions') echo 'active' ?>">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Admissions</a>
+            <ul class="dropdown-menu">
+              <li><a href="<?php echo base_url()?>admissions/why">Why Choose Us</a></li>
+              <li><a href="<?php echo base_url()?>admissions/courses">Courses Offered</a></li>
+              <li><a href="<?php echo base_url()?>admissions/apply">Apply</a></li>
+              <li><a href="<?php echo base_url()?>admissions/guidelines">Admission Guidelines</a></li>
             </ul>
           </li>
           <li class="dropdown <?php if($active_page == 'dept') echo 'active' ?>">
@@ -101,26 +117,26 @@
               <li><a href="<?php echo base_url()?>department/nursing_foundation">Department of Nursing Foundation</a></li>
             </ul>
           </li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Academics</a>
+          <li class="dropdown <?php if($active_page == 'student') echo 'active' ?>">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >STUDENT LIFE</a>
             <ul class="dropdown-menu">
-              <li><a href="#">B.Sc Nursing</a></li>
-              <li><a href="#">P.B.B.Sc Nursing</a></li>
-              <li><a href="#">Post Graduation - M.Sc. Nursing</a></li>
+              <li><a href="<?php echo base_url()?>student/events">Events</a></li>
+              <li><a href="<?php echo base_url()?>student/photos">Photo Gallery</a></li>
+              <li><a href="<?php echo base_url()?>student/clubs">Student Clubs</a></li>
             </ul>
           </li>
-          <li class="dropdown">
+          <li class="<?php if($active_page == 'research') echo 'active' ?>"><a href="<?php echo base_url()?>research">RESEARCH</a></li>
+          <li class="<?php if($active_page == 'alumni') echo 'active' ?>"><a href="<?php echo base_url()?>alumni">Alumni</a></li>
+          <li class="dropdown <?php if($active_page == 'community') echo 'active' ?>">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Community Centre</a>
             <ul class="dropdown-menu">
-              <li><a href="#">Rural Health Centre</a></li>
-              <li><a href="#">Urban Health Centre</a></li>
+              <li><a href="<?php echo base_url()?>community/rural">Rural Health Centre</a></li>
+              <li><a href="<?php echo base_url()?>community/urban">Urban Health Centre</a></li>
             </ul>
           </li>
           <!-- <li><a href="#">STUDENT LIFE</a></li> -->
-          <li><a href="#">RESEARCH</a></li>
           <!-- <li><a href="#">Alumni</a></li> -->
-          <li><a href="#">HOSPITAL</a></li>
-          <li><a href="<?php echo base_url() ?>contact">Contact Us</a></li>
+          <li class="<?php if($active_page == 'hospital') echo 'active' ?>"><a href="<?php echo base_url()?>hospital">HOSPITAL</a></li>
         </ul>
       </div>
     </div>

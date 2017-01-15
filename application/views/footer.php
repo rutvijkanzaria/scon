@@ -26,10 +26,10 @@
         </ul>
       </div>
       <div class="col-md-4 col-sm-4 footer_panel bottom25">
-        <h3 class="heading bottom25">Keep in Touch <span class="divider-left"></span></h3>
-        <p class=" address"><i class="icon-map-pin"></i>Saveetha Nagar, Thandallam, Chennai.</p>
-        <p class=" address"><i class="icon-phone"></i>(91) 123-456-789</p>
-        <p class=" address"><i class="icon-mail"></i><a href="mailto:Edua@info.com">info@scon.com</a></p>
+        <h3 class="heading bottom25">Contact Us <span class="divider-left"></span></h3>
+        <p class="">Principal, Saveetha College Of Nursing, Saveetha University, Thandalam, Chennai - 602 105</p>
+        <p class=" address"><i class="icon-phone"></i>044 - 6672 6620</p>
+        <p class=" address"><i class="icon-mail"></i><a href="mailto:Edua@info.com">principalnursing@saveetha.com</a></p>
       </div>
     </div>
   </div>
@@ -38,7 +38,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        <p>Copyright &copy; 2016 <a href="#">SCON</a>. all rights reserved.</p>
+        <p>Copyright &copy; 2017 <a href="#">SCON</a>. All rights reserved.</p>
       </div>
     </div>
   </div>

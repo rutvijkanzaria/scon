@@ -193,7 +193,7 @@ p{
 	font-size:1em;
 }
 
-ul{
+ol, ul{
 	margin:0;
 	padding:0;
 	list-style:none;
@@ -663,12 +663,11 @@ p.hours a{
 	background:#fff; padding:15px;
 	display:table;
 	border-radius:2px;
-	width: 100%;
 }
 .profile .p_pic, .profile .profile_text{ display:table-cell;}
 .profile .p_pic{ width:100px;}
 .profile .p_pic img{ width:90px;}
-.profile_text{ vertical-align:middle; padding-right:10px;}
+.profile_text{ vertical-align:top; padding-right:10px;}
 .profile_text h5{ margin-bottom:8px;}
 .profile_text strong{ color:#ffb600; /*font-size:14px;*/}
 .profile_text span{ color:#5b5b5b; font-size:13px;}
@@ -1010,13 +1009,13 @@ nav.navbar.bootsnav .navbar-brand{
   padding:20px  0;
 }
 nav.navbar.bootsnav .navbar-brand, nav.navbar.bootsnav.navbar-fixed.no-background .navbar-brand{
-  padding:0;
+  padding:20px  0;
 }
 nav.navbar.bootsnav.sticked .navbar-brand, nav.navbar.bootsnav.navbar-fixed .navbar-brand{
   padding:10px  0;
 }
 nav.navbar.bootsnav .navbar-brand img, nav.navbar.bootsnav.navbar-fixed.no-background .navbar-brand img{
-	width:200px;
+	width:110px;
 }
 nav.navbar.bootsnav.sticked .navbar-brand img, nav.navbar.bootsnav.navbar-fixed .navbar-brand img{
 	width:90px;

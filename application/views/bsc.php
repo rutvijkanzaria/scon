@@ -18,9 +18,9 @@
 
 <!-- Courses -->
 <section id="course_all" class="padding-bottom-half padding-top">
-  <div class="container">
+  <div class="container content-container">
     <div class="row">
-      <div class="col-sm-12 course_detail wow fadeIn" data-wow-delay="400ms">
+      <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <img src="<?php echo base_url() ?>images/about/history.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h3 class="top30 bottom20">B.Sc  Nursing</h3>
         <p class="bottom25">Bachelor of Science degree in Nursing or B.Sc Nursing is a 4 year professional course which is affiliated by Indian Nursing Council and Tamilnadu Nurses and Midwives Council. Nursing science is a field of knowledge based on contributions of nursing scientists through peer reviewed scholarly journals and evidence based practice. This course focuses on the care of individual, families and communities so they may attain, maintain or recover optimal health and quality of life from conception to death.  During the course period prepare the students to equip themselves to be as clinical nurse specialist, counsellor, educator and researcher. The profession is ever demanding and there is a vast opening for the Nursing Graduate worldwide.

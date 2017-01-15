@@ -18,9 +18,9 @@
 
 <!-- Courses -->
 <section id="course_all" class="padding-bottom-half padding-top">
-  <div class="container">
+  <div class="container content-container">
     <div class="row">
-      <div class="col-sm-12 course_detail wow fadeIn" data-wow-delay="400ms">
+      <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <img src="<?php echo base_url() ?>images/about/history.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h3 class="top30 bottom20">About Hospital</h3>
         <p class="bottom25">Saveetha Multi Specialty Hospital established in 2007 and situated  within the campus , with the motto of providing service to the needy people. This 750 bed, state-of-the-art hospital offers 24 hour facilities that compare with the best in the world, and yet are accessible to the most disadvantaged members of society.</p>

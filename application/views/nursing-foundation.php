@@ -17,7 +17,7 @@
 
 <!-- Courses -->
 <section id="course_all" class="padding-bottom-half padding-top">
-	<div class="container">
+	<div class="container content-container">
 		<div class="row">
 			<div class="col-sm-offset-1 col-sm-10 course_detail wow fadeIn" data-wow-delay="400ms">
 				<img src="<?php echo base_url() ?>/images/dept/medic-nursing-main.jpg" alt="Course" class=" border_radius img-responsive bottom15">

@@ -18,9 +18,9 @@
 
 <!-- Courses -->
 <section id="course_all" class="padding-bottom-half padding-top">
-  <div class="container">
+  <div class="container content-container">
     <div class="row">
-      <div class="col-sm-12 course_detail wow fadeIn" data-wow-delay="400ms">
+      <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <img src="<?php echo base_url() ?>images/about/history.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h3 class="top30 bottom20">RESEARCH</h3>
         <p class="bottom25">Nursing research has a tremendous influence on current and future professional nursing practice, thus rendering it an essential component of the educational process. Saveetha College of Nursing has always given paramount importance to research and offering platform for the young researchers. Saveetha College of Nursing is unique in conducting animal study amongst other nursing colleges. Undergraduate students encouraged to pursue individual research project and published in scopus indexed journal.

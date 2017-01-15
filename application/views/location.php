@@ -18,9 +18,9 @@
 
 <!-- Courses -->
 <section id="course_all" class="padding-bottom-half padding-top">
-  <div class="container">
+  <div class="container content-container">
     <div class="row">
-      <div class="col-sm-12 course_detail wow fadeIn" data-wow-delay="400ms">
+      <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <img src="<?php echo base_url() ?>images/about/history.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
 
       </div>

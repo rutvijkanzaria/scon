@@ -18,9 +18,9 @@
 
 <!-- Courses -->
 <section id="course_all" class="padding-bottom-half padding-top">
-  <div class="container">
+  <div class="container content-container">
     <div class="row">
-      <div class="col-sm-12 course_detail wow fadeIn" data-wow-delay="400ms">
+      <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <!-- <img src="<?php echo base_url() ?>images/community/rural.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image"> -->
         <h3 class="top30 bottom20">Location</h3>
         <p class="bottom25">Chancellor and Founder Dr.N.M.Veeraiyan had the vision for developing the rural community. His idea was to serve the needy people to improve the health status. As a result Accordingly a Rural Health Center was established in the Kuthambakkam village on 12-12-2001 by our honorable Chancellor. It is located at Kuthambakkam Road in Thiruvallur district, just 2 km away from Saveetha Medical College and near to Chennai Bangalore High way Road.

@@ -18,9 +18,9 @@
 
 <!-- Courses -->
 <section id="course_all" class="padding-bottom-half padding-top">
-  <div class="container">
+  <div class="container content-container">
     <div class="row">
-      <div class="col-sm-12 course_detail wow fadeIn" data-wow-delay="400ms">
+      <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <img src="<?php echo base_url() ?>images/about/history.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h3 class="top30 bottom20">Post Graduation - M.Sc Nursing</h3>
         <p class="bottom25">Saveetha College of Nursing offering PG course from 1995 in all the branches. We focus on developing their abilities managerial, leadership, and research aspects. Post graduate students are exposed to a variety of teaching and learning methods including seminars, discussions, problem-solving activities. It helps them to experience and transfer their learning in order to develop the higher level of knowledge and skills required for specialist and advanced practice. In Clinical area we are practicing CBL, Bed side clinic, nursing conference   Inter Professional learning to improve collaboration and the quality of care, helps students to appreciate the importance of personalities and interpersonal skills. Our clinical area is enriched with various recent technologies & treatment modalities in the management of critically ill patients and also it provide opportunities for our students to conduct individual and inter professional project to provide evidence based and high quality patient care. Our learning environment promoting our student to take the role as a as advocate, Administrator, researcher, counsellor and manager.

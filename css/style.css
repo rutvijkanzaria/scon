@@ -648,8 +648,8 @@ p.hours a{
 
 /*Profile Image*/
 .profile_bg{
-	background:#f2f2f2;
-	box-shadow:0 0 2px #c8c8c8;
+	/*background:#f2f2f2;*/
+	/*box-shadow:0 0 2px #c8c8c8;*/
 	border-radius:2px;
 	padding:20px;
 }
@@ -660,9 +660,10 @@ p.hours a{
 	border-bottom:1px solid #c8c8c8;
 }
 .profile{
-	background:#fff; padding:15px;
+	background:#f2f2f2; padding:15px;
 	display:table;
 	border-radius:2px;
+	width: 100%;
 }
 .profile .p_pic, .profile .profile_text{ display:table-cell;}
 .profile .p_pic{ width:100px;}

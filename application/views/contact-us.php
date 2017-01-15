@@ -18,7 +18,7 @@
 <section id="contact" class="padding">
 	<div class="container">
 		<div class="row padding-bottom">
-			<div class="col-md-4 contact_address heading_space wow fadeInLeft" data-wow-delay="4500ms">
+			<div class="col-md-4 contact_address heading_space wow fadeInLeft" data-wow-delay="2000ms">
 				<h2 class="heading heading_space">Get in Touch <span class="divider-left"></span></h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
 				<div class="address">
@@ -37,7 +37,7 @@
 					<p>(+91) 123 456 7890</p>
 				</div>
 			</div>
-			<div class="col-md-8 wow fadeInRight" data-wow-delay="4500ms">
+			<div class="col-md-8 wow fadeInRight" data-wow-delay="2000ms">
 				<h2 class="heading heading_space">Fill the Contact Form<span class="divider-left"></span></h2>
 				<form class="form-inline findus" id="contact-form" onSubmit="return false">
 					<div class="row">
@@ -75,11 +75,11 @@
 				</ul>
 			</div>
 		</div>
-		<div class="row wow bounceIn" data-wow-delay="300ms">
+		<!-- <div class="row wow bounceIn" data-wow-delay="300ms">
 			<div class="col-md-12">
 				<div id="map"></div>
 			</div>
-		</div>
+		</div> -->
 	</div>
 </section>
 <!--Contact Deatils -->

@@ -21,22 +21,47 @@
   <div class="container content-container">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
+
+      
       	<!-- Carousel Starts -->
 				<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 				  <!-- Indicators -->
 				  <ol class="carousel-indicators">
 				    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
 				    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-				    <!-- <li data-target="#carousel-example-generic" data-slide-to="2"></li> -->
+				    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+				    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+				    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+				    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+				    <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+				    <li data-target="#carousel-example-generic" data-slide-to="7"></li>
 				  </ol>
 
 				  <!-- Wrapper for slides -->
 				  <div class="carousel-inner" role="listbox">
 				    <div class="item active">
-				      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/about/history.jpg" alt="...">
+				      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/1.jpg" alt="...">
 				    </div>
 				    <div class="item">
-				      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/about/history.jpg" alt="...">
+				      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/2.jpg" alt="...">
+				    </div>
+				    <div class="item">
+				      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/3.jpg" alt="...">
+				    </div>
+				    <div class="item">
+				      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/4.jpg" alt="...">
+				    </div>
+				    <div class="item">
+				      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/5.jpg" alt="...">
+				    </div>
+				    <div class="item">
+				      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/6.jpg" alt="...">
+				    </div>
+				    <div class="item">
+				      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/7.jpg" alt="...">
+				    </div>
+				    <div class="item">
+				      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/8.jpg" alt="...">
 				    </div>
 				  </div>
 

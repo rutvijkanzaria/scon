@@ -26,6 +26,8 @@
           <div class="row">
             <div class="col-md-12 col-sm-12 priorty wow fadeInLeft">
               <h2 class="heading bottom25">Events <span class="divider-left"></span></h2>
+
+              <!-- Gallery -->
               <div class="half_space">
                 <h3 class="text-center">Celebrates International Health Days across all disciplines</h3>
                 <div class="margin_top">

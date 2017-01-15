@@ -10,6 +10,7 @@ class Student extends CI_Controller {
 
 		$this->load->view('header', $data);
 		$this->load->view('events');
+		// $this->load->view('events2');
 		$this->load->view('footer', $data);
 	}
 
@@ -20,7 +21,7 @@ class Student extends CI_Controller {
     );
 
 		$this->load->view('header', $data);
-		$this->load->view('photos');
+		$this->load->view('gallery');
 		$this->load->view('footer', $data);
 	}
 

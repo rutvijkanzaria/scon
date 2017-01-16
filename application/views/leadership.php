@@ -22,21 +22,29 @@
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <div class="row">
-          <div class="col-md-6">
-            <img src="<?php echo base_url()?>/images/leaders/chancellor- NM Veeraiyan.jpg" alt="">
-            <h3>Chancellor: Dr.N.MVeeraiyan</h3>
+          <div style="padding: 20px" class="col-md-6">
+          	<center>
+	            <img src="<?php echo base_url()?>/images/leaders/chancellor- NM Veeraiyan.jpg" alt="">
+	            <h4 style="margin: 10px 0;">Chancellor: Dr.N.MVeeraiyan</h4>
+            </center>
           </div>
-          <div class="col-md-6">
-            <img src="<?php echo base_url()?>/images/leaders/Dirctor-Thiyagarajan.jpg" alt="">
-            <h3>Registrar: Dr.Thiyagarajan</h3>
+          <div style="padding: 20px" class="col-md-6">
+          	<center>
+	            <img src="<?php echo base_url()?>/images/leaders/Dirctor-Thiyagarajan.jpg" alt="">
+	            <h4 style="margin: 10px 0;">Registrar: Dr.Thiyagarajan</h4>
+            </center>
           </div>
-          <div class="col-md-6">
-            <img src="<?php echo base_url()?>/images/leaders/Director Saveetha Rajesh.jpg" alt="">
-            <h3>Director: Dr.Saveetha Rajesh</h3>
+          <div style="padding: 20px" class="col-md-6">
+          	<center>
+	            <img src="<?php echo base_url()?>/images/leaders/Director Saveetha Rajesh.jpg" alt="">
+	            <h4 style="margin: 10px 0;">Director: Dr.Saveetha Rajesh</h4>
+            </center>
           </div>
-          <div class="col-md-6">
-            <img src="<?php echo base_url()?>/images/leaders/Dr.P.Mangala Gowri.jpg" alt="">
-            <h3>Principal: Dr.P.Mangala Gowri</h3>
+          <div style="padding: 20px" class="col-md-6">
+          	<center>
+	            <img src="<?php echo base_url()?>/images/leaders/Dr.P.Mangala Gowri.jpg" alt="">
+	            <h4 style="margin: 10px 0;">Principal: Dr.P.Mangala Gowri</h4>
+            </center>
           </div>
         </div>
         <!-- <h3 class="top30 bottom20">Our Leadership</h3>

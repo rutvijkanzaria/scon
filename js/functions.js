@@ -357,22 +357,22 @@ jQuery(function($) {
     }
 
     //Contact Map
-    if ($("#map").length) {
-        var map;
-        map = new GMaps({
-            el: '#map',
-            lat: 51.507309,
-            lng: -0.127448
-        });
-        map.drawOverlay({
-            lat: map.getCenter().lat(),
-            lng: map.getCenter().lng(),
-            layer: 'overlayLayer',
-            content: '<div class="overlay_map"><i class="icon-mapmarker"></i></div>',
-            verticalAlign: 'top',
-            horizontalAlign: 'center'
-        });
+    // if ($("#map").length) {
+    //     var map;
+    //     map = new GMaps({
+    //         el: '#map',
+    //         lat: 51.507309,
+    //         lng: -0.127448
+    //     });
+    //     map.drawOverlay({
+    //         lat: map.getCenter().lat(),
+    //         lng: map.getCenter().lng(),
+    //         layer: 'overlayLayer',
+    //         content: '<div class="overlay_map"><i class="icon-mapmarker"></i></div>',
+    //         verticalAlign: 'top',
+    //         horizontalAlign: 'center'
+    //     });
 
-    }
+    // }
 
 });

@@ -224,26 +224,26 @@
     <div class="row">
       <div class="col-md-7 col-sm-6 priorty wow fadeInLeft">
         <h2 class="heading bottom25">Welcome to Saveetha College of Nursing <span class="divider-left"></span></h2>
-        <p class="half_space">25 years of excellence in nursing which is established in the year 1992 with the point of convergence on comprehensive preparation of nurses and continuation of odyssey towards Silver Jubilee year. The main objective is to concentrate on nursing education and research. The inception of the college is to fulfil the demand of nurses nationally and globally. It was started with the motto of preparing nurses to serve the needy people in the rural area. Hence it was established in the midst of villages. SCON is an evolving organization which will prepare competent professional graduate nurses for diverse health care delivery and leadership roles.</p>
+        <p class="half_space">Saveetha College of Nursing, Saveetha University with its heritage of excellence in nursing education for over 24 years. The Institute is committed to generating, disseminating, and preserving knowledge, and to working with others to bring this knowledge and care to bear on the world's great challenges. Saveetha College of Nursing is dedicated to providing its students with an education that combines rigorous academic study and the excitement of discovery with the support and intellectual stimulation of a diverse campus community. Our college has a 1000 bedded multi super speciality parent hospital, with modernized and highly equipped and highly professionalized clinical team.  We seek to develop in each member of the Saveetha College of Nursing community the ability and passion to work wisely, creatively, and effectively for the betterment of humankind. Saveetha College of Nursing To be amongst the global leaders in education promoting innovation in nursing field and providing an atmosphere that promotes cross disciplinary interaction and research by students and faculty alike. We provide unique pedagogy that combines classroom education with hands on learning experience.</p>
         <div class="row">
           <div class="col-md-6">
             <div class="about-post">
             <a href="#." class="border_radius"><img src="images/hands.png" alt="hands"></a>
-            <h4>Accreditation & Recognitions</h4>
+	            <h4>Accreditation & Recognitions</h4>
             </div>
             <div class="about-post">
             <a href="#." class="border_radius"><img src="images/awesome.png" alt="hands"></a>
-            <h4>Happy Students</h4>
+	            <h4>Happy Students</h4>
             </div>
           </div>
           <div class="col-md-6">
             <div class="about-post">
             <a href="#." class="border_radius"><img src="images/maintenance.png" alt="hands"></a>
-            <h4>Our Departments</h4>
+	            <h4>Our History</h4>
             </div>
             <div class="about-post">
             <a href="#." class="border_radius"><img src="images/home.png" alt="hands"></a>
-            <h4>Our Teachers</h4>
+	            <h4>Student Clubs</h4>
             </div>
           </div>
         </div>

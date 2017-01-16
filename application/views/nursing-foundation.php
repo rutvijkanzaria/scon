@@ -51,33 +51,32 @@
 				      </div>
 				    </a>
 				    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-				      <div class="panel-body">
-								<div class="profile_bg heading_space">
-									<p>Experienced Nursing Faculty members with Doctoral Degree adds strength to the department.</p>
+					    <div class="panel-body">
+							<div class="profile_bg heading_space">
+								<p>Experienced Nursing Faculty members with Doctoral Degree adds strength to the department.</p>
 
-									<div class="profile bottom25">
-										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Ms.Parimalaa.jpg" alt="Course"></div>
-										<div class="profile_text">
-											<h5><strong>Ms. Parimala.L</strong>  -  <span>Associate Professor</span></h5>
-										</div>
+								<div class="profile bottom25">
+									<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Ms.Parimalaa.jpg" alt="Course"></div>
+									<div class="profile_text">
+										<h5><strong>Ms. Parimala.L</strong>  -  <span>Associate Professor</span></h5>
 									</div>
-
-									<div class="profile bottom25">
-										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mr. Solomon VijayaKumaar.jpg" alt="Course"></div>
-										<div class="profile_text">
-											<h5><strong>Mr.Solomon Vijayakumar.M</strong>  -  <span>Associate Professor</span></h5>
-										</div>
-									</div>
-
-									<div class="profile bottom25">
-										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Muthulakshmi.jpg" alt="Course"></div>
-										<div class="profile_text">
-											<h5><strong>Mrs. Jasila Abraham</strong>  -  <span>Tutor</span></h5>
-										</div>
-									</div>
-
 								</div>
-				      </div>
+
+								<div class="profile bottom25">
+									<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mr. Solomon VijayaKumaar.jpg" alt="Course"></div>
+									<div class="profile_text">
+										<h5><strong>Mr.Solomon Vijayakumar.M</strong>  -  <span>Associate Professor</span></h5>
+									</div>
+								</div>
+
+								<div class="profile bottom25">
+									<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Jasila Abraham.jpg" alt="Course"></div>
+									<div class="profile_text">
+										<h5><strong>Mrs. Jasila Abraham</strong>  -  <span>Tutor</span></h5>
+									</div>
+								</div>
+							</div>
+				        </div>
 				    </div>
 				  </div>
 				  <div class="panel panel-default">

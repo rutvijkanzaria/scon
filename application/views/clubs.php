@@ -22,71 +22,157 @@
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <img src="<?php echo base_url() ?>images/about/history.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
-        <h3 class="top30 bottom20">SNA activities</h3>
-        <ul class="bottom25">
-          <li>• Conducting Rally for health Awareness promotion </li>
-          <li>• International Nurses Day </li>
-          <li>• Yoga day Celebration </li>
-          <li>• SNA Biennial Conference </li>
-          <li>• GB Meeting </li>
-          <li>• Teacher’s Day Celebration </li>
-          <li>• Independence day  </li>
-          <li>• Christmas Day and New Year </li>
-          <li>• Pongal Day Celebration </li>
-          <li>• Fresher’s Day Celebration  </li>
-          <li>• Farewell to the Final year Students </li>
-          <li>• Lamp Lighting ceremony </li>
-          <li>• Promotion of literary activities through Literature Club (Tamil Mandram) </li>
-          <li>• Anti ragging awareness programme </li>
-          <li>• Awareness on Sexual harassment </li>
-        </ul>
-        <p class="half_space">The activities of Student Nurses association are coordinated by following committees</p>
-        <h3 class="top30 bottom20">Student’s welfare Committee</h3>
-        <ul class="bottom25">
-          <li>• Discussing the common problems to the respective teachers which the students are facing in clinical, college and hostel. </li>
-          <li>• Motivating the students to participate in various programmes </li>
-          <li>• The students relaxes themselves by doing yoga. </li>
-          <li>• Guidance and Counselling </li>
-          <li>• Career guidance for the students </li>
-          <li>• Education  Tour </li>
-        </ul>
-        <h3 class="top30 bottom20">Sports Committee</h3>
-        <ul class="bottom25">
-          <li>• The sports committee is responsible for motivating the students to take part in sports. </li>
-          <li>• Maintaining the sports articles and  First Aid Box. </li>
-          <li>• Helping the staff in-charge to conduct sports competitions successfully. </li>
-          <li>• Maintaining record of the Sports events and winners list. </li>
-        </ul>
-        <h3 class="top30 bottom20">Health Committee</h3>
-        <ul class="bottom25">
-          <li>• Encourage the students to maintain healthy life style and healthy environment.</li>
-          <li>• Helping the staff to update their health record.</li>
-          <li>• Checking cleanliness once in a week in all the students room</li>
-          <li>• Maintenance and updating of health record.</li>
-          <li>• Caring of students those who fell sick and inform to the College authority.</li>
-        </ul>
-        <h3 class="top30 bottom20">Cultural Committee</h3>
-        <ul class="bottom25">
-          <li>• Motivate the students to participate in the cultural events </li>
-          <li>• Schedule and conduct the cultural events </li>
-          <li>• Costumes and other necessary things are arranged by the committee members </li>
-          <li>• Maintaining records of  the cultural events and winner list </li>
-        </ul>
-        <h3 class="top30 bottom20">Curriculum Committee</h3>
-        <ul class="bottom25">
-          <li>• Get suggestion from the students about the curriculum students friendly</li>
-          <li>• Find out problems faced by the students in curriculum implemented strategies</li>
-          <li>• Motivate students to develop study habits</li>
-          <li>• Promote peer mentoring. </li>
-        </ul>
-        <h3 class="top30 bottom20">Mess Committee</h3>
-        <ul class="bottom25">
-          <li>• Maintaining hygiene in Mess</li>
-          <li>• Getting suggestion </li>
-          <li>• Following mess rules and regulations</li>
-          <li>• Committee members take responsibility to monitor that no students skips the meals.</li>
-          <li>• Reporting the problems related to the mess and inform to the mess in charge.</li>
-        </ul>
+
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              <div class="panel-heading" role="tab" id="headingOne">
+                <h4 class="panel-title">
+                    SNA activities
+                </h4>
+              </div>
+            </a>
+            <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+              <div class="panel-body">
+                <ul class="bottom25">
+                  <li>• Conducting Rally for health Awareness promotion </li>
+                  <li>• International Nurses Day </li>
+                  <li>• Yoga day Celebration </li>
+                  <li>• SNA Biennial Conference </li>
+                  <li>• GB Meeting </li>
+                  <li>• Teacher’s Day Celebration </li>
+                  <li>• Independence day  </li>
+                  <li>• Christmas Day and New Year </li>
+                  <li>• Pongal Day Celebration </li>
+                  <li>• Fresher’s Day Celebration  </li>
+                  <li>• Farewell to the Final year Students </li>
+                  <li>• Lamp Lighting ceremony </li>
+                  <li>• Promotion of literary activities through Literature Club (Tamil Mandram) </li>
+                  <li>• Anti ragging awareness programme </li>
+                  <li>• Awareness on Sexual harassment </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              <div class="panel-heading" role="tab" id="headingTwo">
+                <h4 class="panel-title">
+                    Student’s welfare Committee
+                </h4>
+              </div>
+            </a>
+            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+              <div class="panel-body">
+                <ul class="bottom25">
+                  <li>• Discussing the common problems to the respective teachers which the students are facing in clinical, college and hostel. </li>
+                  <li>• Motivating the students to participate in various programmes </li>
+                  <li>• The students relaxes themselves by doing yoga. </li>
+                  <li>• Guidance and Counselling </li>
+                  <li>• Career guidance for the students </li>
+                  <li>• Education  Tour </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              <div class="panel-heading" role="tab" id="headingThree">
+                <h4 class="panel-title">
+                    Sports Committee
+                </h4>
+              </div>
+            </a>
+            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+              <div class="panel-body">
+                <ul class="bottom25">
+                  <li>• The sports committee is responsible for motivating the students to take part in sports. </li>
+                  <li>• Maintaining the sports articles and  First Aid Box. </li>
+                  <li>• Helping the staff in-charge to conduct sports competitions successfully. </li>
+                  <li>• Maintaining record of the Sports events and winners list. </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+              <div class="panel-heading" role="tab" id="headingThree">
+                <h4 class="panel-title">
+                    Health Committee
+                </h4>
+              </div>
+            </a>
+            <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+              <div class="panel-body">
+                <ul class="bottom25">
+                  <li>• Encourage the students to maintain healthy life style and healthy environment.</li>
+                  <li>• Helping the staff to update their health record.</li>
+                  <li>• Checking cleanliness once in a week in all the students room</li>
+                  <li>• Maintenance and updating of health record.</li>
+                  <li>• Caring of students those who fell sick and inform to the College authority.</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+              <div class="panel-heading" role="tab" id="headingThree">
+                <h4 class="panel-title">
+                    Cultural Committee
+                </h4>
+              </div>
+            </a>
+            <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+              <div class="panel-body">
+                <ul class="bottom25">
+                  <li>• Motivate the students to participate in the cultural events </li>
+                  <li>• Schedule and conduct the cultural events </li>
+                  <li>• Costumes and other necessary things are arranged by the committee members </li>
+                  <li>• Maintaining records of  the cultural events and winner list </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+              <div class="panel-heading" role="tab" id="headingThree">
+                <h4 class="panel-title">
+                    Curriculum Committee
+                </h4>
+              </div>
+            </a>
+            <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+              <div class="panel-body">
+                <ul class="bottom25">
+                  <li>• Get suggestion from the students about the curriculum students friendly</li>
+                  <li>• Find out problems faced by the students in curriculum implemented strategies</li>
+                  <li>• Motivate students to develop study habits</li>
+                  <li>• Promote peer mentoring. </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+              <div class="panel-heading" role="tab" id="headingThree">
+                <h4 class="panel-title">
+                    Mess Committee
+                </h4>
+              </div>
+            </a>
+            <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
+              <div class="panel-body">
+                <ul class="bottom25">
+                  <li>• Maintaining hygiene in Mess</li>
+                  <li>• Getting suggestion </li>
+                  <li>• Following mess rules and regulations</li>
+                  <li>• Committee members take responsibility to monitor that no students skips the meals.</li>
+                  <li>• Reporting the problems related to the mess and inform to the mess in charge.</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>

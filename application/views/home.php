@@ -382,7 +382,7 @@
 
 
 <!-- Courses -->
-<section id="courses" class="padding parallax">
+<section id="courses" class="padding parallax" style="display:none">
   <div class="container">
     <div class="row">
       <div class="col-md-12 wow fadeInDown">

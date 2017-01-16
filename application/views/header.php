@@ -51,6 +51,18 @@
         </ul>
       </div>
     </div>
+    <div style="padding: 15px 0; margin: 0" class="row">
+      <div style="padding: 5px;" class="col-sm-2">
+	      <a href="<?php echo base_url() ?>">
+          <img style="width: 100%" src="<?php echo base_url()?>/images/sconlogo.png">
+        </a>
+      </div>
+      <div style="padding: 5px;" class="col-sm-offset-7 col-sm-3">
+	      <a href="<?php echo base_url() ?>">
+          <img style="width: 100%" src="<?php echo base_url()?>/images/sulogo.png">
+        </a>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -62,12 +74,12 @@
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
           <i class="fa fa-bars"></i>
         </button>
-        <a class="navbar-brand" href="<?php echo base_url() ?>">
-          <img src="<?php echo base_url()?>/images/sconlogo.png">
-        </a>
+        <!-- <a class="navbar-brand" href="<?php echo base_url() ?>">
+          <img src="<?php echo base_url()?>images/scon25.jpg">
+        </a> -->
       </div>
       <div class="collapse navbar-collapse" id="navbar-menu">
-        <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOut">
+        <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOut">
         <li class='<?php if($active_page == 'home') echo 'active' ?>' ><a href="<?php echo base_url() ?>">Home</a></li>
           <li class="dropdown <?php if($active_page == 'about') echo 'active' ?>">
             <a href="#" class="dropdown-toggle dropdown" data-toggle="dropdown" >About</a>

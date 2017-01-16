@@ -209,7 +209,7 @@ jQuery(function($) {
         sliderType: "standard",
         sliderLayout: "fullwidth",
         scrollbarDrag: "true",
-        delay: 9000,
+        delay: 3000,
         spinner: "off",
         navigation: {
             arrows: {
@@ -234,7 +234,7 @@ jQuery(function($) {
         },
         responsiveLevels: [4096, 1024, 778, 480],
         gridwidth: [1170, 960, 750, 480],
-        gridheight: [670, 600, 500, 390],
+        gridheight: [450, 600, 500, 390],
     });
 	 
 	 //Full Screen
@@ -267,7 +267,7 @@ jQuery(function($) {
         },
         responsiveLevels: [4096, 1024, 778, 480],
         gridwidth: [1170, 960, 750, 480],
-        gridheight: [670, 600, 500, 390],
+        gridheight: [450, 600, 500, 390],
     });
 	 
 	 
@@ -300,7 +300,7 @@ jQuery(function($) {
         },
         responsiveLevels: [4096, 1024, 778, 480],
         gridwidth: [1170, 960, 767, 480],
-        gridheight: [600, 550, 450, 320],
+        gridheight: [450, 550, 450, 320],
     });
 	 
 	 

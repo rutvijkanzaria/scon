@@ -22,63 +22,63 @@
     <div class="row">
       <div id="gallery" class="col-sm-10 col-sm-offset-1">
           <div id="projects" class="cbp">
-			      <div class="cbp-item">
-			        <img src="<?php echo base_url() ?>images/hostel/thumbs/2.jpg" alt="thumb">
-			        <div class="overlay">
-			          <div class="centered text-center">
-			            <a href="<?php echo base_url() ?>images/hostel/2.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
-			          </div>
-			        </div>
-			      </div>
-			      <div class="cbp-item">
-			        <img src="<?php echo base_url() ?>images/hostel/thumbs/3.jpg" alt="thumb">
-			        <div class="overlay">
-			          <div class="centered text-center">
-			            <a href="<?php echo base_url() ?>images/hostel/3.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
-			          </div>
-			        </div>
-			      </div>
-			      <div class="cbp-item">
-			        <img src="<?php echo base_url() ?>images/hostel/thumbs/1.jpg" alt="thumb">
-			        <div class="overlay">
-			          <div class="centered text-center">
-			            <a href="<?php echo base_url() ?>images/hostel/1.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
-			          </div>
-			        </div>
-			      </div>
-			      <div class="cbp-item">
-			        <img src="<?php echo base_url() ?>images/hostel/thumbs/4.jpg" alt="thumb">
-			        <div class="overlay">
-			          <div class="centered text-center">
-			            <a href="<?php echo base_url() ?>images/hostel/4.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
-			          </div>
-			        </div>
-			      </div>
-			      <div class="cbp-item">
-			        <img src="<?php echo base_url() ?>images/hostel/thumbs/5.jpg" alt="thumb">
-			        <div class="overlay">
-			          <div class="centered text-center">
-			            <a href="<?php echo base_url() ?>images/hostel/5.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
-			          </div>
-			        </div>
-			      </div>
-			      <div class="cbp-item">
-			        <img src="<?php echo base_url() ?>images/hostel/thumbs/6.jpg" alt="thumb">
-			        <div class="overlay">
-			          <div class="centered text-center">
-			            <a href="<?php echo base_url() ?>images/hostel/6.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
-			          </div>
-			        </div>
-			      </div>
-			      <div class="cbp-item">
-			        <img src="<?php echo base_url() ?>images/hostel/thumbs/7.jpg" alt="thumb">
-			        <div class="overlay">
-			          <div class="centered text-center">
-			            <a href="<?php echo base_url() ?>images/hostel/7.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
-			          </div>
-			        </div>
-			      </div>
-			    </div>
+			<div class="cbp-item">
+				<img src="<?php echo base_url() ?>images/hostel/thumbs/2.jpg" alt="thumb">
+				<div class="overlay">
+				  <div class="centered text-center">
+				    <a href="<?php echo base_url() ?>images/hostel/2.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
+				  </div>
+				</div>
+				</div>
+				<div class="cbp-item">
+				<img src="<?php echo base_url() ?>images/hostel/thumbs/3.jpg" alt="thumb">
+				<div class="overlay">
+				  <div class="centered text-center">
+				    <a href="<?php echo base_url() ?>images/hostel/3.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
+				  </div>
+				</div>
+				</div>
+				<div class="cbp-item">
+				<img src="<?php echo base_url() ?>images/hostel/thumbs/1.jpg" alt="thumb">
+				<div class="overlay">
+				  <div class="centered text-center">
+				    <a href="<?php echo base_url() ?>images/hostel/1.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
+				  </div>
+				</div>
+				</div>
+				<div class="cbp-item">
+				<img src="<?php echo base_url() ?>images/hostel/thumbs/4.jpg" alt="thumb">
+				<div class="overlay">
+				  <div class="centered text-center">
+				    <a href="<?php echo base_url() ?>images/hostel/4.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
+				  </div>
+				</div>
+				</div>
+				<div class="cbp-item">
+				<img src="<?php echo base_url() ?>images/hostel/thumbs/5.jpg" alt="thumb">
+				<div class="overlay">
+				  <div class="centered text-center">
+				    <a href="<?php echo base_url() ?>images/hostel/5.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
+				  </div>
+				</div>
+				</div>
+				<div class="cbp-item">
+				<img src="<?php echo base_url() ?>images/hostel/thumbs/6.jpg" alt="thumb">
+				<div class="overlay">
+				  <div class="centered text-center">
+				    <a href="<?php echo base_url() ?>images/hostel/6.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
+				  </div>
+				</div>
+				</div>
+				<div class="cbp-item">
+				<img src="<?php echo base_url() ?>images/hostel/thumbs/7.jpg" alt="thumb">
+				<div class="overlay">
+				  <div class="centered text-center">
+				    <a href="<?php echo base_url() ?>images/hostel/7.jpg" class="cbp-lightbox opens"> <i class="icon-focus"></i></a>
+				  </div>
+				</div>
+				</div>
+			</div>
 		  </div>
       <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <h3 class="top30 bottom20">Hostels</h3>

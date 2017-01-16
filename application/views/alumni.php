@@ -21,11 +21,11 @@
   <div class="container content-container">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
-        <img src="<?php echo base_url() ?>images/about/history.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
+        <img src="<?php echo base_url() ?>images/alumni-banner.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h2 class="heading bottom25">About Alumni <span class="divider-left"></span></h2>
         <p class="half_space">
           We provide a common platform for the alumni of the institute to reach out to other alumni across various years, batches, branches, and interest. Saveetha College Of Nursing (SCON) , which has completed several years of active functioning since its installation in 1992. Alumni of Saveetha College of Nursing (ASCON) is registered as a Society (Sl. No. 156/2014) under Section 10 of the Tamil Nadu Societies Registration Act 27 of 1975. ASCON Office is situated in the campus and is operated by Alumni. Alumni association is to support the Saveetha College of Nursing through the knowledge, skills, financial resources, and loyalty of its alumni; to communicate and interpret the goals and achievements to others; and to promote a spirit of unity and loyalty among former students and friends. Alumni Association creates and maintains a life-long connection between the Institute and its alumni, who number more than 1300.<br><br>
-Association works to connect alumni, support students and build an unforgettable Institute experience through a diversity of events, programming and services. Out of 1113alumni 675 globally placed remaining placed in India with higher cadre</p>
+					Association works to connect alumni, support students and build an unforgettable Institute experience through a diversity of events, programming and services. Out of 1113alumni 675 globally placed remaining placed in India with higher cadre</p>
         <h2 class="heading bottom25">Office Bearers<span class="divider-left"></span></h2>
         <p class="half_space">
           • President:<br>

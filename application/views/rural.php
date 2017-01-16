@@ -21,7 +21,7 @@
   <div class="container content-container">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
-        <!-- <img src="<?php echo base_url() ?>images/community/rural.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image"> -->
+        <img src="<?php echo base_url() ?>images/community/rural.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h3 class="top30 bottom20">Location</h3>
         <p class="bottom25">Chancellor and Founder Dr.N.M.Veeraiyan had the vision for developing the rural community. His idea was to serve the needy people to improve the health status. As a result Accordingly a Rural Health Center was established in the Kuthambakkam village on 12-12-2001 by our honorable Chancellor. It is located at Kuthambakkam Road in Thiruvallur district, just 2 km away from Saveetha Medical College and near to Chennai Bangalore High way Road.
         </p>
@@ -43,21 +43,20 @@
           <li>CRRI Rooms-2</li>
         </ul>
         <h3 class="top30 bottom20">FLOOR PLAN</h3>
-        <p class="bottom25">Coming Soon...
-        </p>
+        <img style="width: 50%;" src="<?php echo base_url() ?>images/rural-floor-plan.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h3 class="top30 bottom20">Staffing Pattern</h3>
         <ul class="bottom25">
-          <li>1.	Medical Officer Incharge                                -1</li>
-          <li>2.	Asst. Medical Officers                                     -2</li>
-          <li>3.	PHN                                                                 -1 </li>
-          <li>4.	VHN                                                                 -2</li>
-          <li>5.	Social Worker                                                  -1</li>
-          <li>6.	Health Educator                                               -1</li>
-          <li>7.	Lab. Technician                                               -1</li>
-          <li>8.	Sanitary Inspector                                            -1</li>
-          <li>9.	Peon                                                                 -1</li>
-          <li>10.	Ayah                                                                 -1     </li>
-          <li>11.	Driver                                                               -1</li>
+          <li>1.	Medical Officer Incharge -1</li>
+          <li>2.	Asst. Medical Officers -2</li>
+          <li>3.	PHN -1</li>
+          <li>4.	VHN -2</li>
+          <li>5.	Social Worker -1</li>
+          <li>6.	Health Educator -1</li>
+          <li>7.	Lab. Technician -1</li>
+          <li>8.	Sanitary Inspector -1</li>
+          <li>9.	Peon -1</li>
+          <li>10.	Ayah -1</li>
+          <li>11.	Driver -1</li>
         </ul>
         <h3 class="top30 bottom20">Services Rendered</h3>
         <p class="bottom25">The services rendered by heath centre at free of cost are  </p>

@@ -18,9 +18,9 @@
 
 <!-- Courses -->
 <section id="course_all" class="padding-bottom-half padding-top">
-  <div class="container">
+  <div class="container content-container">
     <div class="row">
-      <div class="col-sm-12 course_detail wow fadeIn" data-wow-delay="400ms">
+      <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <img src="<?php echo base_url() ?>images/community/urban.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h3 class="top30 bottom20">Location</h3>
         <p class="bottom25">Another great thought of Chancellor and Founder Dr.N.M.Veeraiyan had the vision for developing the urban community Saveetha Urban Health Centre was started in the year 2011 at Etiamman Koil street, Gundumedu, Thirumazhisai, which is located 15 Km from Saveetha Medical College, 1 Km from Thirumazhisai Bus depot and near to Othandeeswarar Temple.
@@ -46,8 +46,8 @@
           <li>Wash room</li>
         </ul>
         <h3 class="top30 bottom20">FLOOR PLAN</h3>
-        <p class="bottom25">Coming Soon...
-        </p>
+        <img style="width: 50%;" src="<?php echo base_url() ?>images/urban-ground.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
+        <img style="width: 50%;" src="<?php echo base_url() ?>images/urban-first.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h3 class="top30 bottom20">Staffing Pattern</h3>
         <ul class="bottom25">
           <li>1.	Medical Officer Incharge -1</li>

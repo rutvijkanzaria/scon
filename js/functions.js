@@ -326,6 +326,17 @@ jQuery(function($) {
         displayTypeSpeed: 100,
     });
 
+    $(".projects").cubeportfolio({
+        filters: "#project-filter",
+        layoutMode: 'grid',
+        defaultFilter: '*',
+        animationType: 'slideDelay',
+        gapHorizontal: 20,
+        gapVertical: 20,
+        gridAdjustment: 'responsive',
+        displayTypeSpeed: 100,
+    });
+
     //testimonial
     $('#js-grid-masonry').cubeportfolio({
         layoutMode: 'grid',

@@ -20,7 +20,7 @@
 <section id="course_all" class="padding-bottom-half padding-top">
   <div class="container content-container">
     <div class="row">
-      <div id="gallery" class="col-sm-10 col-sm-offset-1">
+      <div id="" class="col-sm-10 col-sm-offset-1">
           <div id="projects" class="cbp">
 			<div class="cbp-item">
 				<img src="<?php echo base_url() ?>images/hostel/thumbs/2.jpg" alt="thumb">

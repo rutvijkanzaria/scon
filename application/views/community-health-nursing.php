@@ -20,7 +20,7 @@
 	<div class="container content-container">
 		<div class="row">
 			<div class="col-sm-offset-1 col-sm-10 course_detail wow fadeIn" data-wow-delay="400ms">
-				<img src="<?php echo base_url() ?>/images/dept/child-nursing-main.jpg" alt="Course" class=" border_radius img-responsive bottom15">
+				<img src="<?php echo base_url() ?>/images/dept/community-nursing.jpg" alt="Course" class=" border_radius img-responsive bottom15">
 				<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 				  <div class="panel panel-default">
 				    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">

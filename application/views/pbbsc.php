@@ -21,7 +21,7 @@
   <div class="container content-container">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
-        <img src="<?php echo base_url() ?>images/about/history.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
+        <img src="<?php echo base_url() ?>images/academics/pbsc.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h3 class="top30 bottom20">P.B.B.Sc  Nursing</h3>
         <p class="bottom25">Post basic B.Sc. degree Nursing is a broad based education aimed to build upon the skills and competencies acquired at the Diploma in General Nursing and Midwifery level. It is specially directed to the upgrading of critical thinking skills, competencies and standards required for practice of professional nursing and midwifery and to prepare graduates to assume responsibilities as competent nurses and midwives in providing promotive, preventive curative rehabilitative services, who can make independent decisions in nursing situations, protect the rights of individuals in pursuit of health and conduct research studies in the area of nursing practice. They are also expected to assume the role of teacher, supervisor, researcher and manager in a clinical/ public health setting.
         </p>

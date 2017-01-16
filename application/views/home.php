@@ -286,90 +286,90 @@
             <div class="item">
               <div class="content_wrap">
                 <div class="image">
-                  <img src="images/home/2.jpg" alt="Edua" class="img-responsive border_radius">
+                  <img src="<?php echo base_url() ?>images/news/disaster_training.jpg" alt="Edua" class="img-responsive border_radius">
                 </div>
                 <div class="news_box border_radius">
-                  <h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
+                  <h4><a href="<?php echo base_url() ?>docs/DISASTER MANAGEMENT TRAINING PROGRAMME.pdf" target="_blank">Disaster Training Programme</a></h4>
                   <ul class="commment">
-                    <li><a href="#."><i class="icon-icons20"></i>Jan 16, 2017</a></li>
+                    <li><a href="#."><i class="icon-icons20"></i>Dec 16, 2016</a></li>
                   </ul>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit...</p>
-                  <a href="#" class="readmore">Read More</a>
+                  <p>YRC has organized DISASTER MANAGEMENT TRAINING PROGRAMME  on 16.12.2016 for the undergraduate students.  The first session was delivered by Dr.sugunthan, Disaster Management Responded, Redcross, Tamilnadu branch  about the various disaster management...</p>
+                  <a href="<?php echo base_url() ?>docs/DISASTER MANAGEMENT TRAINING PROGRAMME.pdf" target="_blank" class="readmore">Read More</a>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="content_wrap">
                 <div class="image">
-                  <img src="images/home/3.jpg" alt="Edua" class="img-responsive border_radius">
+                  <img src="<?php echo base_url() ?>images/news/Lamp lighting programme.jpg" alt="Edua" class="img-responsive border_radius">
                 </div>
                 <div class="news_box border_radius">
-                  <h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
+                  <h4><a href="<?php echo base_url() ?>docs/Lamp Lighting.pdf" target="_blank">Lamp Lighting Programme</a></h4>
                   <ul class="commment">
-                    <li><a href="#."><i class="icon-icons20"></i>Jan 6, 2017</a></li>
+                    <li><a href="#."><i class="icon-icons20"></i>Oct 15, 2016</a></li>
                   </ul>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit...</p>
-                  <a href="#" class="readmore">Read More</a>
+                  <p>Lamp lighting programme was held on 15.10.2016 at Nalli Arangam. The programme started with procession of dignitaries and freshers....</p>
+                  <a href="<?php echo base_url() ?>docs/Lamp Lighting.pdf" target="_blank" class="readmore">Read More</a>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="content_wrap">
                 <div class="image">
-                  <img src="images/home/4.jpg" alt="Edua" class="img-responsive border_radius">
+                  <img src="<?php echo base_url() ?>images/news/Silver Jubilee.jpg" alt="Edua" class="img-responsive border_radius">
                 </div>
                 <div class="news_box border_radius">
-                  <h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
+                  <h4><a href="<?php echo base_url() ?>docs/Silver Jubilee.pdf" target="_blank">Silver Jubilee</a></h4>
                   <ul class="commment">
-                    <li><a href="#."><i class="icon-icons20"></i>Jan 16, 2017</a></li>
+                    <li><a href="#"><i class="icon-icons20"></i>Oct 24, 2016</a></li>
                   </ul>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit...</p>
-                  <a href="#" class="readmore">Read More</a>
+                  <p>The silver jubilee inaugural and curtain raising function was held on 24th October 2016. It is a marvelous and most memorable time and ever it is in our heart and mind. It is the remarkable marking of the history of our Saveetha College of Nursing....</p>
+                  <a href="<?php echo base_url() ?>docs/Silver Jubilee.pdf" target="_blank" class="readmore">Read More</a>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="content_wrap">
                 <div class="image">
-                  <img src="images/home/1.jpg" alt="Edua" class="img-responsive border_radius">
+                  <img src="<?php echo base_url() ?>images/news/Intercollegiate SCON LARO 2K16.jpg" alt="Edua" class="img-responsive border_radius">
                 </div>
                 <div class="news_box border_radius">
-                  <h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
+                  <h4><a href="<?php echo base_url() ?>docs/Inter Collegegiate SCON LARO 2K16.pdf" target="_blank">Inter Collegegiate SCON LARO 2K16</a></h4>
                   <ul class="commment">
-                    <li><a href="#."><i class="icon-icons20"></i>Jan 16, 2017</a></li>
+                    <li><a href="#."><i class="icon-icons20"></i>April 20, 2016</a></li>
                   </ul>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit...</p>
-                  <a href="#" class="readmore">Read More</a>
+                  <p>Intercollegiate SCON LARO 2K16  was organized by Saveetha College of Nursing  for three days from 20th April to 22nd April at Saveetha University Sports Campus. There were around 8 Nursing colleges were participated...</p>
+                  <a href="<?php echo base_url() ?>docs/Inter Collegegiate SCON LARO 2K16.pdf" target="_blank" class="readmore">Read More</a>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="content_wrap">
                 <div class="image">
-                  <img src="images/home/3.jpg" alt="Edua" class="img-responsive border_radius">
+                  <img src="<?php echo base_url() ?>images/news/INTERCOLLEGIATE MIDWIFERY QUIZ.jpg" alt="Edua" class="img-responsive border_radius">
                 </div>
                 <div class="news_box border_radius">
-                  <h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
+                  <h4><a href="<?php echo base_url() ?>docs/INTER COLLEGIATE MIDWIFERY QUIZ.pdf" target="_blank">INTERCOLLEGIATE MIDWIFERY QUIZ</a></h4>
                   <ul class="commment">
-                    <li><a href="#."><i class="icon-icons20"></i>Jan 16, 2017</a></li>
+                    <li><a href="#."><i class="icon-icons20"></i>Jan 21, 2016</a></li>
                   </ul>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit...</p>
-                  <a href="#" class="readmore">Read More</a>
+                  <p>Department of OBG Nursing has organized the intercollegiate midwifery quiz on 21.01.2016 at Multipurpose Hall. Around 16 colleges with 3 students from each college from North region of Tamilnadu took part in this competition. ...</p>
+                  <a href="<?php echo base_url() ?>docs/INTER COLLEGIATE MIDWIFERY QUIZ.pdf" target="_blank" class="readmore">Read More</a>
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="content_wrap">
                 <div class="image">
-                  <img src="images/home/2.jpg" alt="Edua" class="img-responsive border_radius">
+                  <img src="<?php echo base_url() ?>images/news/National Conference.jpg" alt="Edua" class="img-responsive border_radius">
                 </div>
                 <div class="news_box border_radius">
-                  <h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
+                  <h4><a href="<?php echo base_url() ?>docs/National Level Conference.pdf" target="_blank">National Level Conference</a></h4>
                   <ul class="commment">
-                    <li><a href="#."><i class="icon-icons20"></i>Jan 16, 2017</a></li>
+                    <li><a href="#."><i class="icon-icons20"></i>Feb 5, 2016</a></li>
                   </ul>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit...</p>
-                  <a href="#" class="readmore">Read More</a>
+                  <p>The 10th National Conference with theme “Rejuvenate Praxis: Accessing a world of New Challenges for the Clinical Nurse Specialist” was organized on 5th & 6th of February 2016. The conference started with the registration at 8.30am and inauguration was started at 9am with lighting the  Kuthuvizhaku by the dignitaries on the dais....</p>
+                  <a href="<?php echo base_url() ?>docs/National Level Conference.pdf" target="_blank" class="readmore">Read More</a>
                 </div>
               </div>
             </div>

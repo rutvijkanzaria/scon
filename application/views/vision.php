@@ -87,15 +87,6 @@
         <h3 class="top30 bottom20">Quality Policy</h3>
         <p class="bottom25">To promote quality education, to convert a novice into a competent expert in the relevant field at par with global standards by meeting the far reacting expectations and requirements of the students through dedicated and devoted staffs with updated systems and continual improvement.
         </p>
-
-        <h3 class="top30 bottom20">Our Leadership</h3>
-        <ul class="bottom25">
-          <li>Chancellor: Dr.N.MVeeraiyan</li>
-          <li>Vice Chancellor: Dr.Jawahar Nesan</li>
-          <li>Registrar: Dr.Thiyagarajan</li>
-          <li>Director: Dr.Saveetha Rajesh</li>
-          <li>Principal: Dr.P.Mangala Gowri</li>
-        </ul>
       </div>
     </div>
   </div>

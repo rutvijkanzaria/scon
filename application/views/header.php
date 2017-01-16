@@ -74,6 +74,7 @@
             <ul class="dropdown-menu">
               <li><a href="<?php echo base_url()?>about/history">Our History- Inception</a></li>
               <li><a href="<?php echo base_url()?>about/vision">Vision & Mission + Quality Policy</a></li>
+              <li><a href="<?php echo base_url()?>about/leadership">Our Leadership</a></li>
               <li><a href="<?php echo base_url()?>about/accreditation">Accreditation & Recognitions</a></li>
               <li><a href="<?php echo base_url()?>about/committees">Committees & Authorities</a></li>
               <li><a href="<?php echo base_url()?>about/location">Location & Accessibility</a></li>

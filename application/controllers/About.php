@@ -24,6 +24,17 @@ class About extends CI_Controller {
 		$this->load->view('footer', $data);
 	}
 
+	public function leadership()
+	{
+    $data = array(
+      'active_page' => 'about'
+    );
+
+		$this->load->view('header', $data);
+		$this->load->view('leadership');
+		$this->load->view('footer', $data);
+	}
+
 	public function accreditation()
 	{
     $data = array(

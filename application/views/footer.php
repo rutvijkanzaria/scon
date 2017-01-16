@@ -38,7 +38,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        <p>Copyright &copy; 2017 <a href="#">SCON</a>. All rights reserved & Designed by <a href="http://pointzero.in/" target="_blank"><strong>pointZero</strong></a></p>
+        <p>Copyright &copy; 2017 <a href="#">SCON</a>. Designed by <a href="http://pointzero.in/" target="_blank"><strong>pointZero</strong></a></p>
       </div>
     </div>
   </div>

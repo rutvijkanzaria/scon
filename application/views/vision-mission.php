@@ -37,7 +37,7 @@
             <div class="profile_text">
               <h3><strong>Facilities</strong></h3>
               <p class="margin10">The mannequin is helpful for the students to practice the procedure like insertion of IV cannula, colostomy care, Exchange transfusion, umbilical cord catheterization in the lab, so that it makes the students to practice independently in the clinical setup Students are getting opportunities to perform pediatric procedures in simulation corner, self-learning Desk in the lab which helps to improve students’ knowledge attitude, skill and prepare them at global level. Following Simulation models are present in the lab.</p>
-              <ul class="bullet_list margin10">
+              <ul class="  margin10">
                 <li>Intravenous arm</li>
                 <li>Advance Baby Mannequin</li>
               </ul>
@@ -56,7 +56,7 @@
           <div class="top20 bottom20">
             <div class="profile_text">
               <h3><strong>Research Areas</strong></h3>
-              <ul class="bullet_list margin10">
+              <ul class="  margin10">
                 <li>Adolescent Health</li>
                 <li>Learning disability</li>
                 <li>New Born care</li>

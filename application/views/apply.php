@@ -74,9 +74,9 @@
 				<!-- Carousel Ends -->
         <h3 class="top30 bottom20">Apply</h3>
         <ul class="bottom25">
-          <li>•	Application and Prospectus can be obtained from admission office on the payment of Rs.500/- for UG courses & Rs.1000/- for PG courses</li>
-          <li>•	To download the application form and for further detail visit our website www.saveetha.com</li>
-          <li>•	Completed application should reach ‘Office of Admissions, Saveetha University’, Saveetha Nagar, Thandalam , Chennai-602105</li>
+          <li> 	Application and Prospectus can be obtained from admission office on the payment of Rs.500/- for UG courses & Rs.1000/- for PG courses</li>
+          <li> 	To download the application form and for further detail visit our website www.saveetha.com</li>
+          <li> 	Completed application should reach ‘Office of Admissions, Saveetha University’, Saveetha Nagar, Thandalam , Chennai-602105</li>
         </ul>
       </div>
     </div>

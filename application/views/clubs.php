@@ -78,21 +78,21 @@
             <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>• Conducting Rally for health Awareness promotion </li>
-                  <li>• International Nurses Day </li>
-                  <li>• Yoga day Celebration </li>
-                  <li>• SNA Biennial Conference </li>
-                  <li>• GB Meeting </li>
-                  <li>• Teacher’s Day Celebration </li>
-                  <li>• Independence day  </li>
-                  <li>• Christmas Day and New Year </li>
-                  <li>• Pongal Day Celebration </li>
-                  <li>• Fresher’s Day Celebration  </li>
-                  <li>• Farewell to the Final year Students </li>
-                  <li>• Lamp Lighting ceremony </li>
-                  <li>• Promotion of literary activities through Literature Club (Tamil Mandram) </li>
-                  <li>• Anti ragging awareness programme </li>
-                  <li>• Awareness on Sexual harassment </li>
+                  <li>  Conducting Rally for health Awareness promotion </li>
+                  <li>  International Nurses Day </li>
+                  <li>  Yoga day Celebration </li>
+                  <li>  SNA Biennial Conference </li>
+                  <li>  GB Meeting </li>
+                  <li>  Teacher’s Day Celebration </li>
+                  <li>  Independence day  </li>
+                  <li>  Christmas Day and New Year </li>
+                  <li>  Pongal Day Celebration </li>
+                  <li>  Fresher’s Day Celebration  </li>
+                  <li>  Farewell to the Final year Students </li>
+                  <li>  Lamp Lighting ceremony </li>
+                  <li>  Promotion of literary activities through Literature Club (Tamil Mandram) </li>
+                  <li>  Anti ragging awareness programme </li>
+                  <li>  Awareness on Sexual harassment </li>
                 </ul>
               </div>
             </div>
@@ -108,12 +108,12 @@
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>• Discussing the common problems to the respective teachers which the students are facing in clinical, college and hostel. </li>
-                  <li>• Motivating the students to participate in various programmes </li>
-                  <li>• The students relaxes themselves by doing yoga. </li>
-                  <li>• Guidance and Counselling </li>
-                  <li>• Career guidance for the students </li>
-                  <li>• Education  Tour </li>
+                  <li>  Discussing the common problems to the respective teachers which the students are facing in clinical, college and hostel. </li>
+                  <li>  Motivating the students to participate in various programmes </li>
+                  <li>  The students relaxes themselves by doing yoga. </li>
+                  <li>  Guidance and Counselling </li>
+                  <li>  Career guidance for the students </li>
+                  <li>  Education  Tour </li>
                 </ul>
               </div>
             </div>
@@ -129,10 +129,10 @@
             <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>• The sports committee is responsible for motivating the students to take part in sports. </li>
-                  <li>• Maintaining the sports articles and  First Aid Box. </li>
-                  <li>• Helping the staff in-charge to conduct sports competitions successfully. </li>
-                  <li>• Maintaining record of the Sports events and winners list. </li>
+                  <li>  The sports committee is responsible for motivating the students to take part in sports. </li>
+                  <li>  Maintaining the sports articles and  First Aid Box. </li>
+                  <li>  Helping the staff in-charge to conduct sports competitions successfully. </li>
+                  <li>  Maintaining record of the Sports events and winners list. </li>
                 </ul>
               </div>
             </div>
@@ -148,11 +148,11 @@
             <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>• Encourage the students to maintain healthy life style and healthy environment.</li>
-                  <li>• Helping the staff to update their health record.</li>
-                  <li>• Checking cleanliness once in a week in all the students room</li>
-                  <li>• Maintenance and updating of health record.</li>
-                  <li>• Caring of students those who fell sick and inform to the College authority.</li>
+                  <li>  Encourage the students to maintain healthy life style and healthy environment.</li>
+                  <li>  Helping the staff to update their health record.</li>
+                  <li>  Checking cleanliness once in a week in all the students room</li>
+                  <li>  Maintenance and updating of health record.</li>
+                  <li>  Caring of students those who fell sick and inform to the College authority.</li>
                 </ul>
               </div>
             </div>
@@ -168,10 +168,10 @@
             <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>• Motivate the students to participate in the cultural events </li>
-                  <li>• Schedule and conduct the cultural events </li>
-                  <li>• Costumes and other necessary things are arranged by the committee members </li>
-                  <li>• Maintaining records of  the cultural events and winner list </li>
+                  <li>  Motivate the students to participate in the cultural events </li>
+                  <li>  Schedule and conduct the cultural events </li>
+                  <li>  Costumes and other necessary things are arranged by the committee members </li>
+                  <li>  Maintaining records of  the cultural events and winner list </li>
                 </ul>
               </div>
             </div>
@@ -187,10 +187,10 @@
             <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>• Get suggestion from the students about the curriculum students friendly</li>
-                  <li>• Find out problems faced by the students in curriculum implemented strategies</li>
-                  <li>• Motivate students to develop study habits</li>
-                  <li>• Promote peer mentoring. </li>
+                  <li>  Get suggestion from the students about the curriculum students friendly</li>
+                  <li>  Find out problems faced by the students in curriculum implemented strategies</li>
+                  <li>  Motivate students to develop study habits</li>
+                  <li>  Promote peer mentoring. </li>
                 </ul>
               </div>
             </div>
@@ -206,11 +206,11 @@
             <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>• Maintaining hygiene in Mess</li>
-                  <li>• Getting suggestion </li>
-                  <li>• Following mess rules and regulations</li>
-                  <li>• Committee members take responsibility to monitor that no students skips the meals.</li>
-                  <li>• Reporting the problems related to the mess and inform to the mess in charge.</li>
+                  <li>  Maintaining hygiene in Mess</li>
+                  <li>  Getting suggestion </li>
+                  <li>  Following mess rules and regulations</li>
+                  <li>  Committee members take responsibility to monitor that no students skips the meals.</li>
+                  <li>  Reporting the problems related to the mess and inform to the mess in charge.</li>
                 </ul>
               </div>
             </div>

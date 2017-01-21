@@ -132,11 +132,11 @@
             <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>  •	Dr.Sivapraksam, HOD, Department of Community Medicine</li>
-                  <li>  •	Dr.P.MangalaGowri, Principal</li>
-                  <li>  •	Dr.S.Aruna, Vice Principal</li>
-                  <li>  •	Mr.M.Manoj Abraham, Principal, SCPT</li>
-                  <li>  •	Dr.Mani Kumar, Associate Professor, SCPT</li>
+                  <li>   	Dr.Sivapraksam, HOD, Department of Community Medicine</li>
+                  <li>   	Dr.P.MangalaGowri, Principal</li>
+                  <li>   	Dr.S.Aruna, Vice Principal</li>
+                  <li>   	Mr.M.Manoj Abraham, Principal, SCPT</li>
+                  <li>   	Dr.Mani Kumar, Associate Professor, SCPT</li>
                 </ul>
               </div>
             </div>
@@ -150,19 +150,19 @@
             <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>  •	Mrs.SudhaGanapathy	-	Chairperson</li>
-                  <li>  •	Dr.R.Vijayaraghavan - 	 Member Secretary</li>
-                  <li>  •	Dr.UmaMaheswari - 		Member – Clinician Dentistry</li>
-                  <li>  •	Dr.B.W.C. Sathiyasekaran - 	Member – Community Medicine</li>
-                  <li>  •	Dr.R.Kannan		- 	Member – Medicine</li>
-                  <li>  •	Dr.K.K.ShanthaSundari - 	Member – Clinician Dentistry</li>
-                  <li>  •	Dr.C.B.Tharani – 		Member – Pharmacology</li>
-                  <li>  •	Mr.S.Radhakrishnan – 	Member – Legal Expert</li>
-                  <li>  •	Mrs.GirijaKumarbabu-	Member – Social Science</li>
-                  <li>  •	Dr.P.MangalaGowri -		Member – Principal, SCON</li>
-                  <li>  •	Dr.S.Porchelvan - 		Member – Scientific Staff</li>
-                  <li>  •	Dr.E.Sukumar - 		Member – Scientific Staff</li>
-                  <li>  •	Dr.SenthilKaumar- 		Invited Member - Research</li>
+                  <li>   	Mrs.SudhaGanapathy	-	Chairperson</li>
+                  <li>   	Dr.R.Vijayaraghavan - 	 Member Secretary</li>
+                  <li>   	Dr.UmaMaheswari - 		Member – Clinician Dentistry</li>
+                  <li>   	Dr.B.W.C. Sathiyasekaran - 	Member – Community Medicine</li>
+                  <li>   	Dr.R.Kannan		- 	Member – Medicine</li>
+                  <li>   	Dr.K.K.ShanthaSundari - 	Member – Clinician Dentistry</li>
+                  <li>   	Dr.C.B.Tharani – 		Member – Pharmacology</li>
+                  <li>   	Mr.S.Radhakrishnan – 	Member – Legal Expert</li>
+                  <li>   	Mrs.GirijaKumarbabu-	Member – Social Science</li>
+                  <li>   	Dr.P.MangalaGowri -		Member – Principal, SCON</li>
+                  <li>   	Dr.S.Porchelvan - 		Member – Scientific Staff</li>
+                  <li>   	Dr.E.Sukumar - 		Member – Scientific Staff</li>
+                  <li>   	Dr.SenthilKaumar- 		Invited Member - Research</li>
                 </ul>
               </div>
             </div>
@@ -176,11 +176,11 @@
             <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>  •	Dr.T.Gunasagaran-		Chairperson- Biological Scientist</li>
-                  <li>  •	Dr.R.Vijayaraghavan - 	 Member Secretary</li>
-                  <li>  •	Dr.J.Vijayakumar - 		Member</li>
-                  <li>  •	Dr.V.Thiagarajan-		Member – Veterinary Officer</li>
-                  <li>  •	Dr.S.Senthilkumar-		Member, Scientist in charge Animal House Facility</li>
+                  <li>   	Dr.T.Gunasagaran-		Chairperson- Biological Scientist</li>
+                  <li>   	Dr.R.Vijayaraghavan - 	 Member Secretary</li>
+                  <li>   	Dr.J.Vijayakumar - 		Member</li>
+                  <li>   	Dr.V.Thiagarajan-		Member – Veterinary Officer</li>
+                  <li>   	Dr.S.Senthilkumar-		Member, Scientist in charge Animal House Facility</li>
                 </ul>
               </div>
             </div>
@@ -194,7 +194,7 @@
             <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>•	Mrs.Mary Minolin.T, Associate Professor</li>
+                  <li> 	Mrs.Mary Minolin.T, Associate Professor</li>
                 </ul>
               </div>
             </div>
@@ -208,16 +208,16 @@
             <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
               <div class="panel-body">
                 <ul class="bottom25">
-                    <li>•	Dr. P. MangalaGowri, Convener.</li>
-                    <li>•	Dr. S. Aruna , Member Secretary.</li>
-                    <li>•	Prof. S. Kalabarathi, Member.</li>
-                    <li>•	Mrs.T.MaryMinolin, Member.</li>
-                    <li>•	Ms. Parimala.L, Member.</li>
-                    <li>•	Mr.Purishothaman MA.BL, External Expert.</li>
-                    <li>•	Mrs.Ramya, M.Sc(N) student representative.</li>
-                    <li>•	Ms.Subhasini, B.Sc(N) student representative</li>
-                    <li>•	Ms,Jayabharathi, B.Sc(N) student representative</li>
-                    <li>•	Ms.Hemamalini, B.Sc(N) Student representative</li>
+                    <li> 	Dr. P. MangalaGowri, Convener.</li>
+                    <li> 	Dr. S. Aruna , Member Secretary.</li>
+                    <li> 	Prof. S. Kalabarathi, Member.</li>
+                    <li> 	Mrs.T.MaryMinolin, Member.</li>
+                    <li> 	Ms. Parimala.L, Member.</li>
+                    <li> 	Mr.Purishothaman MA.BL, External Expert.</li>
+                    <li> 	Mrs.Ramya, M.Sc(N) student representative.</li>
+                    <li> 	Ms.Subhasini, B.Sc(N) student representative</li>
+                    <li> 	Ms,Jayabharathi, B.Sc(N) student representative</li>
+                    <li> 	Ms.Hemamalini, B.Sc(N) Student representative</li>
                 </ul>
               </div>
             </div>
@@ -231,15 +231,15 @@
             <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>  •	Dr. P. MangalaGowri, Principal</li>
-                  <li>  •	Ms. S.Kalabarathi, Professor.</li>
-                  <li>  •	Mr. Jaya kumar, Warden.</li>
-                  <li>  •	Dr.M.A.SahbanathulMissiriya, Professor.</li>
-                  <li>  •	Mrs. T. Mary Minolin, Associate Professor</li>
-                  <li>  •	Ms. L. Parimala, Assistant Professor.</li>
-                  <li>  •	Ms.Rebakkal JM, Clinical Instructor</li>
-                  <li>  •	Ms. Uma Mageshwari.S, B.Sc(N) IV Year, Student</li>
-                  <li>  •	Ms.Uha Rani, B.Sc(N) III Year Student</li>
+                  <li>   	Dr. P. MangalaGowri, Principal</li>
+                  <li>   	Ms. S.Kalabarathi, Professor.</li>
+                  <li>   	Mr. Jaya kumar, Warden.</li>
+                  <li>   	Dr.M.A.SahbanathulMissiriya, Professor.</li>
+                  <li>   	Mrs. T. Mary Minolin, Associate Professor</li>
+                  <li>   	Ms. L. Parimala, Assistant Professor.</li>
+                  <li>   	Ms.Rebakkal JM, Clinical Instructor</li>
+                  <li>   	Ms. Uma Mageshwari.S, B.Sc(N) IV Year, Student</li>
+                  <li>   	Ms.Uha Rani, B.Sc(N) III Year Student</li>
                 </ul>
               </div>
             </div>
@@ -253,10 +253,10 @@
             <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
               <div class="panel-body">
                 <ul class="bottom25">
-                  <li>  •	Ms. S.Kalabarathi, Professor.</li>
-                  <li>  •	Ms. L. Parimala, Assistant Professor.</li>
-                  <li>  •	Ms.Rebakkal JM, Clinical Instructor</li>
-                  <li>  •	Mr.Alfred Solomon, Clinical Instructor</li>
+                  <li>   	Ms. S.Kalabarathi, Professor.</li>
+                  <li>   	Ms. L. Parimala, Assistant Professor.</li>
+                  <li>   	Ms.Rebakkal JM, Clinical Instructor</li>
+                  <li>   	Mr.Alfred Solomon, Clinical Instructor</li>
                 </ul>
               </div>
             </div>

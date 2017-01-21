@@ -77,11 +77,11 @@
           <li>B.Sc.Nursing (4 Years)</li>
           <li>Post Basic B.Sc. Nursing ( 2 Years, Eli: GNM)</li>
           <li>M.Sc.Nursing  (2 Years)</li>
-          <li>&nbsp&nbsp&nbsp&nbsp•	Medical surgical nursing</li>
-          <li>&nbsp&nbsp&nbsp&nbsp•	Chid health nursing</li>
-          <li>&nbsp&nbsp&nbsp&nbsp•	Maternity nursing</li>
-          <li>&nbsp&nbsp&nbsp&nbsp•	Community health nursing</li>
-          <li>&nbsp&nbsp&nbsp&nbsp•	Mental health nursing / psychiatry nursing</li>
+          <li>&nbsp&nbsp&nbsp&nbsp 	Medical surgical nursing</li>
+          <li>&nbsp&nbsp&nbsp&nbsp 	Chid health nursing</li>
+          <li>&nbsp&nbsp&nbsp&nbsp 	Maternity nursing</li>
+          <li>&nbsp&nbsp&nbsp&nbsp 	Community health nursing</li>
+          <li>&nbsp&nbsp&nbsp&nbsp 	Mental health nursing / psychiatry nursing</li>
         </ul>
       </div>
     </div>

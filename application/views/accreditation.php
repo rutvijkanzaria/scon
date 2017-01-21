@@ -76,14 +76,14 @@
 
         <h3 class="top30 bottom20">Accreditation</h3>
         <ul class="bottom25">
-          <li>•	Saveetha College of Nursing is a constituent college of Saveetha University, a deemed to be university, under section 3 of UGC ACt,1956.</li><br>
-          <li>•	Saveetha College of Nursing is a National Assessment and Accreditation Council (NAAC) ‘A’ grade accredited institution.</li>
+          <li> 	Saveetha College of Nursing is a constituent college of Saveetha University, a deemed to be university, under section 3 of UGC ACt,1956.</li><br>
+          <li> 	Saveetha College of Nursing is a National Assessment and Accreditation Council (NAAC) ‘A’ grade accredited institution.</li>
         </ul>
 
         <h3 class="top30 bottom20">Recognition</h3>
         <ul class="bottom25">
-          <li>•	Indian Nursing Council</li><br>
-          <li>•	The Tamilnadu Nurses and Midwives Council</li>
+          <li> 	Indian Nursing Council</li><br>
+          <li> 	The Tamilnadu Nurses and Midwives Council</li>
         </ul>
       </div>
     </div>

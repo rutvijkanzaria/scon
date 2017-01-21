@@ -55,7 +55,7 @@
                 <p>Medical and surgical nursing department is offering elective courses like</p>
                 <div class="row">
                   <div class="col-sm-6">
-                    <ul class="bullet_list">
+                    <ul class="">
                       <li>Diabetic nurse educator</li>
                       <li>Dialysis nurse specialist</li>
                     </ul>
@@ -67,13 +67,13 @@
                 <p>Our department has unique student evaluation methods like</p>
                 <div class="row">
                   <div class="col-sm-6">
-                    <ul class="bullet_list">
+                    <ul class="">
                       <li>OSPE</li>
                       <li>Quantum assessment</li>
                     </ul>
                   </div>
                   <div class="col-sm-6">
-                    <ul class="bullet_list">
+                    <ul class="">
                       <li>OSCE</li>
                       <li>Self assessment method, which will create more interest among students in learning and improving their skills</li>
                     </ul>
@@ -99,6 +99,10 @@
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Dr.S.Aruna.jpg" alt="Course"></div>
                     <div class="profile_text">
                       <h5><strong>DR. S. ARUNA</strong>  -  <span>Professor & HOD</span></h5>
+                      <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#aruna">
+                        Know more..
+                      </button>
+
                     </div>
                   </div>
 
@@ -106,6 +110,9 @@
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Thenmozhi.P.jpeg" alt="Course"></div>
                     <div class="profile_text">
                       <h5><strong>MRS. THENMOZHI. P</strong>  -  <span>Associate Professor</span></h5>
+                      <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Thenmozhi">
+                        Know more..
+                      </button>
                     </div>
                   </div>
 
@@ -113,6 +120,9 @@
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Ms.Varalakshmi.jpg" alt="Course"></div>
                     <div class="profile_text">
                       <h5><strong>MS. VARALAKSHMI. E</strong>  -  <span>Associate Professor</span></h5>
+                      <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#VARALAKSHMI">
+                        Know more..
+                      </button>
                     </div>
                   </div>
 
@@ -120,6 +130,9 @@
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mr. Ruban David.jpg" alt="Course"></div>
                     <div class="profile_text">
                       <h5><strong>MR. RUBAN DAVID</strong>  -  <span>Associate Professor</span></h5>
+                      <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#RUBAN">
+                        Know more..
+                      </button>
                     </div>
                   </div>
 
@@ -127,6 +140,9 @@
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mr.David Roninson.jpg" alt="Course"></div>
                     <div class="profile_text">
                       <h5><strong>MR. DAVID ROBINSON</strong>  -  <span>Tutor</span></h5>
+                      <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#DAVID">
+                        Know more..
+                      </button>
                     </div>
                   </div>
 
@@ -134,6 +150,9 @@
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Ms.Rajeswari.jpeg" alt="Course"></div>
                     <div class="profile_text">
                       <h5><strong>MS. RAJESWARI. M</strong>  -  <span>Tutor</span></h5>
+                      <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#RAJESWARI">
+                        Know more..
+                      </button>
                     </div>
                   </div>
 
@@ -141,6 +160,9 @@
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Karpagam.jpg" alt="Course"></div>
                     <div class="profile_text">
                       <h5><strong>MRS. KARPAGAM. K</strong>  -  <span>Tutor</span></h5>
+                      <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#KARPAGAM">
+                        Know more..
+                      </button>
                     </div>
                   </div>
 
@@ -186,7 +208,7 @@
             </a>
             <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
               <div class="panel-body">
-                <ul class="bullet_list margin10">
+                <ul class=" margin10">
                   <li>Oncology Nursing</li>
                   <li>Cardio Thoracic Nursing</li>
                   <li>Critical Care Nursing</li>
@@ -214,3 +236,295 @@
   </div>
 </section>
 <!-- Courses -->
+
+
+<!-- Staff Profile -->
+<div class="modal fade" id="aruna" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel"><h5><strong>DR. S. ARUNA</strong>  -  <span>Professor & HOD</span></h5></h4>
+      </div>
+      <div class="modal-body">
+        <p><strong>ACADEMIC QUALIFICATION</strong></p>
+        <p>M.Sc.(N) &ndash; Medical Surgical Nursing, Ph.D</p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+        <ul>
+        <li>Delivering lectures for under graduate and postgraduate by using innovative teaching methods</li>
+        <li>Guiding students for research activities</li>
+        <li>Evaluating the students in both theory and practical</li>
+        <li>Supervising the students in the clinical area</li>
+        <li>Couselling the needed student</li>
+        <li>Conducting the research based on the need in the current scenario</li>
+        <li>Gudeing Ph.D Candidate</li>
+        <li>Handling research, Nursing Education &amp; Management subjects for UG &amp; PG students</li>
+        <li>Course Co-ordinator for PG</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p><strong>EXPERTISE</strong></p>
+        <p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medical Surgical Nursing,, Research in various hospitals</p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>AWARDS &amp; ACHIEVEMENTS</strong></p>
+        <p><strong>Book writing</strong></p>
+        <ul>
+        <li>A text book of Medical Surgical Nursing-I,VitMEd,An imprint of Vitasta Publishing Pvt Ltd, Tamilnadu Nurses and Midwives Council,2014</li>
+        </ul>
+        <p><strong>Journal Editoral Board:</strong></p>
+        <ul>
+        <li>Journal of Medical Surgical Nursing, Tamilnadu Nurses and Midwives Council</li>
+        <li>Trans Steller national Journal</li>
+        </ul>
+        <p>Appreciation award By&nbsp; Saveetha University for contribution towards achievement of Guinness World Record</p>
+        <p>&nbsp;</p>
+        <p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+        <ul>
+        <li>College Administrator</li>
+        <li>Mentor for students</li>
+        <li>Expert member in</li>
+        <li>Scientific Review Board</li>
+        <li>Research TAC Committee</li>
+        <li>Faculty &amp; Student Selection Committee of institution</li>
+        <li>Board of Studies</li>
+        <li>Curriculum Committee</li>
+        <li>Disciplinary Committee</li>
+        <li>Anti-ragging Committee</li>
+        <li>IQAC Committee&hellip;.</li>
+        <li>External Academic Committee member &amp; Co-guide</li>
+        <li>Vice-President, ALUMNI Association, SCON, SU</li>
+        <li>SNA Advisor 2007-2016</li>
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Thenmozhi" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel"><h5><strong>MRS. THENMOZHI. P</strong>  -  <span>Associate Professor</span></h5></h4>
+      </div>
+      <div class="modal-body">
+<p><strong>ACADEMIC QUALIFICATION</strong></p>
+<p>M.Sc.(N) &ndash; Medical Surgical Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+<ul>
+<li>Delivering lectures by using innovative teaching methods</li>
+<li>Guiding students for research activities</li>
+<li>Evaluating the students in both theory and practical</li>
+<li>Supervising the students in the clinical area</li>
+<li>Couselling the needed student</li>
+<li>Conducting the research based on the need in the current scenario</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p><strong>EXPERTISE</strong></p>
+<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+<p>Medical Surgical Nursing, Research</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>AWARDS &amp; ACHIEVEMENTS</strong></p>
+<p>Cash Award for Publication by Saveetha University</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+<ul>
+<li>Students Mentor</li>
+<li>Student Welfare Committee</li>
+<li>Health Committee</li>
+<li>IQAC Committee&hellip;.</li>
+</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="VARALAKSHMI" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+          <h5><strong>MS. VARALAKSHMI. E</strong>  -  <span>Associate Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+        <p><strong>ACADEMIC QUALIFICATION</strong></p>
+<p>M.Sc.(N) &ndash; Medical Surgical Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+<ul>
+<li>Teaching- Medical Surgical Nursing subjects to B.Sc. II Year. ANP- Sc ( N) I year. B.sc II year(B-batch) Class Co-ordinator.</li>
+<li>Clinical supervision - II yr B.sc Nursing and B.SC IV year Internship</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p><strong>EXPERTISE</strong></p>
+<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+<p>Medical Surgical Nursing /Cardio Thoracic Nursing/Nursing Management</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>AWARDS &amp; ACHIEVEMENTS</strong></p>
+<p>Received cash prize for SCOPUS publication&rsquo;2016</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+<ul>
+<li>Students Mentor</li>
+<li>Health Committee</li>
+<li>Mess Committee</li>
+<li>Sports Committee&hellip;.</li>
+</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="RUBAN" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+          <h5><strong>MR. RUBAN DAVID</strong>  -  <span>Associate Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+        <p><strong>ACADEMIC QUALIFICATION</strong></p>
+<p>M.Sc.(N) &ndash; Medical Surgical Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theory and Clinical Supervision For B.Sc&nbsp; Nursing III Year</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>EXPERTISE</strong></p>
+<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+<p>Medical Surgical Nursing/ Critical Care Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+<ul>
+<li>Students Mentor</li>
+<li>Career Development &amp; Progression Committee</li>
+<li>Sports Committee</li>
+</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="DAVID" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+          <h5><strong>MR. DAVID ROBINSON</strong>  -  <span>Tutor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+        <p><strong>ACADEMIC QUALIFICATION</strong></p>
+<p>M.Sc.(N) &ndash; Medical Surgical Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+<p>Theory and Clinical Supervision For B.Sc. II Year&nbsp; Medical Surgical Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>EXPERTISE</strong></p>
+<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+<p>Medical&nbsp; Surgical&nbsp; Nursing/ Critical Care Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+<ul>
+<li>Students Mentor</li>
+<li>Health Committee</li>
+<li>Sports Committee</li>
+</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="RAJESWARI" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+          <h5><strong>MS. RAJESWARI. M</strong>  -  <span>Tutor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+        <p><strong>ACADEMIC QUALIFICATION</strong></p>
+<p>M.Sc.(N) &ndash; Medical Surgical Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+<p>Theory and Clinical Supervision For B.Sc(N)II Year&nbsp; Medical surgical Nursing.</p>
+<p>Communication and educational technology for B.Sc(N)II Year&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>EXPERTISE</strong></p>
+<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+<p>Medical surgical Nursing/ Cardio thoracic&nbsp; Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+<ul>
+<li>Students Mentor</li>
+<li>Environmental Committee</li>
+<li>Health Committee</li>
+</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="KARPAGAM" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+          <h5><strong>MRS. KARPAGAM. K</strong>  -  <span>Tutor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+        <p><strong>ACADEMIC QUALIFICATION</strong></p>
+<p>M.Sc.(N) &ndash; Medical Surgical Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+<p>Theory Classes For Bsc(Nursing) III Year &lsquo;B&rsquo; Batch</p>
+<p>Clinical Supervision For Bsc(Nursing) III Year &lsquo;B&rsquo; Batch</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>EXPERTISE</strong></p>
+<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+<p>Medical&nbsp; Surgical&nbsp; Nursing-Critical Care Nursing</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+<ul>
+<li>Students Mentor</li>
+<li>Health Committee</li>
+<li>Cultural Committee&hellip;.</li>
+</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

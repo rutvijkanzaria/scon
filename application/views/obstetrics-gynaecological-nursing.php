@@ -59,6 +59,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Ms.Kalabharathi.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Ms. Kala Barathi. S</strong>  -  <span>Professor & HOD</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Kala">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -66,6 +69,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Dr.Vaijayanthi.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs.Dr. Vaijayanthi Mala</strong>  -  <span>Associate Professor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Vaijayanthi">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -73,6 +79,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Muthulakshmi.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs. Muthulakshmi</strong>  -  <span>Assistant Professor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Muthulakshmi">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -80,6 +89,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Resmy.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs. Reshmi</strong>  -  <span>Tutor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Reshmi">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -99,7 +111,7 @@
 				      <div class="panel-body">
 								<p class="margin10">The department has a very good Infrastructure to promote ideal Learning both for Undergraduates and Postgraduates. </p>
 								<p class="margin10">The Laboratory is equipped with</p>
-								<ul class="bullet_list margin10">
+								<ul class="  margin10">
 	                <li>Instruments and models</li>
 	                <li>Pelvis and Fetal skull</li>
 	                <li>Mannequins</li>
@@ -120,7 +132,7 @@
 				      <div class="panel-body">
 								<p class="margin10">Simulator are an additional asset and highlight the department that permit Nursing students to acquire complete birthing experience through simulation-based learning all these provide knowledge ,skills and attitude to resolve practical dilemma in real life situation.
 								</p>
-								<ul class="bullet_list margin10">
+								<ul class="  margin10">
 	                <li>Manual birth simulator</li>
 	                <li>Episiotomy suturing simulator</li>
 	                <li>Antenatal palpation simulator</li>
@@ -144,7 +156,7 @@
 				      <div class="panel-body">
 								<p class="margin10">Today the evolution of Nursing research is recognized in relation to contemporary nursing. Therefore faculty members  and students are encouraged to participate  and promote nursing research in rural healthcare to meet the healthcare needs of  the  women. OBG Nursing department had conducted research in rural and urban areas. The result of some of the following research outline its own significance.
 								</p>
-								<ul class="bullet_list margin10">
+								<ul class="  margin10">
 									<li>Number of Projects Completed : 84</li>
 									<li>Number of  Publications : 29 ( scopus indexed  journal – 8)</li>
 									<li>No of ongoing Projects : 22</li>
@@ -159,3 +171,167 @@
 	</div>
 </section>
 <!-- Courses -->
+
+<div class="modal fade" id="Kala" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Ms. Kala Barathi. S</strong>  -  <span>Professor & HOD</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>M.Sc.(N) &ndash; Obstetrical &amp; Gynecological&nbsp; Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<ul>
+				<li>Coordinator for Msc nursing&nbsp; II year</li>
+				<li>OBG nursing Post basic Bsc nursing&nbsp; I year, B.sc nursing&nbsp; IV&nbsp;&nbsp; year and Msc Nursing I year &amp; II year</li>
+				<li>Nursing Research&nbsp; - Bsc Nursing IVyear</li>
+				<li>Nursing Management -M.Sc (N) II year</li>
+				<li>Member of Board of studies</li>
+				<li>SNA Advisor,</li>
+				<li>Member of Anti- ragging ,sexual harassment&nbsp; committee&nbsp; and other committees</li>
+				</ul>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Obstetrical &amp; Gynecological&nbsp; Nursing</p>
+				<p>Conducting various research in menopausal related problems</p>
+				<p><strong>&nbsp;</strong></p>
+				<p>&nbsp;</p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Member of Academic council</li>
+				<li>Mentor for students</li>
+				<li>Board of Studies</li>
+				<li>Curriculum Committee</li>
+				<li>Disciplinary Committee</li>
+				<li>Anti-ragging Committee</li>
+				<li>Mess Committee</li>
+				<li>Anti-ragging Committee</li>
+				<li>Sexual Harrasment Committee</li>
+				<li>Treasurer, ALUMNI Association, SCON, SU</li>
+				<li>SNA Advisor 2016 &ndash; November onwards</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Vaijayanthi" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mrs.Dr. Vaijayanthi Mala</strong>  -  <span>Associate Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>M.Sc.(N) &ndash; Obstetrical &amp; Gynecological&nbsp; Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<ul>
+				<li>Coordinator for Post basic B.Sc nursing&nbsp; I year</li>
+				<li>Maternity nursing Post basic B.Sc nursing&nbsp; I year, B.sc nursing&nbsp; IV&nbsp;&nbsp; year and Msc Nursing I year</li>
+				<li>Nursing administration and management - Bsc Nursing&nbsp; IV year</li>
+				</ul>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Obstetrical &amp; Gynecological&nbsp; Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Cultural Committee</li>
+				<li>Environmental Committee</li>
+				<li>College Council Comittee</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Muthulakshmi" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mrs. Muthulakshmi</strong>  -  <span>Assistant Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>M.Sc.(N) &ndash; Obstetrical &amp; Gynecological&nbsp; Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<ul>
+				<li>Theory- Sc. II Year Communication and Education Technology. (in charge)</li>
+				<li>Sc. IV Year OBG nursing, Nursing management.Clinical supervision - B.SC IV year-OBG and&nbsp; Internship</li>
+				</ul>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Obstetrical &amp; Gynecological&nbsp; Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Cultural Committee</li>
+				<li>Sports Committee</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Reshmi" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mrs. Reshmi</strong>  -  <span>Tutor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>M.Sc.(N) &ndash; Obstetrics &amp; Gynaecological Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<p>Clinical Supervision &amp; Theory Class For B.Sc. Nursing I Year,</p>
+				<p>B.Sc. Nursing III Year- Statstics Class,</p>
+				<p>P.B.B.Sc. Nursing Ii Year- Psychiatric Class,</p>
+				<p>M.Sc. Nursing &ndash; Theory Class.</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Obstetrics &amp; Gynaecological Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Mentor for students</li>
+				<li>Mess Committee</li>
+				<li>Environmental Committee</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

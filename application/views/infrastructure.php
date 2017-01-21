@@ -80,8 +80,8 @@
         </p>
         <h3 class="top30 bottom20">IT Infrastructure</h3>
         <ul class="bottom25">
-          <li>•	Wi- Fi Enabled campus – 300 Mbps internet, Main Frame server – 6.5 terabytes.</li>
-          <li>•	Campus Automation – Online access to attendance & Academics of students</li>
+          <li> 	Wi- Fi Enabled campus – 300 Mbps internet, Main Frame server – 6.5 terabytes.</li>
+          <li> 	Campus Automation – Online access to attendance & Academics of students</li>
         </ul>
       </div>
     </div>

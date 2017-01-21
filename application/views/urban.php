@@ -124,20 +124,20 @@
               <div class="panel-body">
                 <p class="bottom25">The services rendered by heath centre at free of cost are  </p>
                 <ul class="bottom25">
-                  <li>•	Preventive &  Curative Services</li>
-                  <li>•	Maternal And Child Welfare Services</li>
-                  <li>•	Immunization</li>
-                  <li>•	Family Welfare Programmes</li>
-                  <li>•	Diagnostic services</li>
-                  <li>•	Screening,</li>
-                  <li>•	Minor Ailments</li>
-                  <li>•	Surveillance Works</li>
-                  <li>•	Minor surgery</li>
-                  <li>•	Health Awareness</li>
-                  <li>•	Conduction of camps </li>
-                  <li>•	Outreach reach at nearby areas</li>
-                  <li>•	Drugs Issuing and </li>
-                  <li>•	Referral services to Saveetha Medical College Hospital.</li>
+                  <li> 	Preventive &  Curative Services</li>
+                  <li> 	Maternal And Child Welfare Services</li>
+                  <li> 	Immunization</li>
+                  <li> 	Family Welfare Programmes</li>
+                  <li> 	Diagnostic services</li>
+                  <li> 	Screening,</li>
+                  <li> 	Minor Ailments</li>
+                  <li> 	Surveillance Works</li>
+                  <li> 	Minor surgery</li>
+                  <li> 	Health Awareness</li>
+                  <li> 	Conduction of camps </li>
+                  <li> 	Outreach reach at nearby areas</li>
+                  <li> 	Drugs Issuing and </li>
+                  <li> 	Referral services to Saveetha Medical College Hospital.</li>
                 </ul>
               </div>
             </div>

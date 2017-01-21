@@ -27,11 +27,11 @@
         </p>
         <h3 class="top30 bottom20">Best Practices</h3>
         <ul class="bottom25">
-          <li>•	Small Group Learning</li>
-          <li>•	Education Workshop</li>
-          <li>•	Research Methodology Workshop</li>
-          <li>•	Individual Research Project</li>
-          <li>•	Inter-professional community practice</li>
+          <li> 	Small Group Learning</li>
+          <li> 	Education Workshop</li>
+          <li> 	Research Methodology Workshop</li>
+          <li> 	Individual Research Project</li>
+          <li> 	Inter-professional community practice</li>
         </ul>
         <h3 class="top30 bottom20">Curriculum and Year Plan</h3>
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">

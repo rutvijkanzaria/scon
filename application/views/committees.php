@@ -79,9 +79,7 @@
           <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
               <div class="panel-heading" role="tab" id="headingOne">
-                <h4 class="panel-title">
-                    Advisory Board
-                </h4>
+                <h4 style="color: #4587d9;">Advisory Board</h4>
               </div>
             </a>
             <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
@@ -105,9 +103,7 @@
           <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
               <div class="panel-heading" role="tab" id="headingTwo">
-                <h4 class="panel-title">
-                    Curriculum Committee
-                </h4>
+                <h4 style="color: #4587d9;">Curriculum Committee</h4>
               </div>
             </a>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
@@ -130,9 +126,7 @@
           <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
               <div class="panel-heading" role="tab" id="headingThree">
-                <h4 class="panel-title">
-                    Scientific Research Board
-                </h4>
+                <h4 style="color: #4587d9;">Scientific Research Board</h4>
               </div>
             </a>
             <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
@@ -150,9 +144,7 @@
           <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
               <div class="panel-heading" role="tab" id="headingThree">
-                <h4 class="panel-title">
-                    Institutional Human Ethics Committee
-                </h4>
+                <h4 style="color: #4587d9;">Institutional Human Ethics Committee</h4>
               </div>
             </a>
             <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
@@ -178,9 +170,7 @@
           <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
               <div class="panel-heading" role="tab" id="headingThree">
-                <h4 class="panel-title">
-                    Institutional Animal Ethics Committee
-                </h4>
+                <h4 style="color: #4587d9;">Institutional Animal Ethics Committee</h4>
               </div>
             </a>
             <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
@@ -198,9 +188,7 @@
           <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
               <div class="panel-heading" role="tab" id="headingThree">
-                <h4 class="panel-title">
-                    Medical Educational Unit
-                </h4>
+                <h4 style="color: #4587d9;">Medical Educational Unit</h4>
               </div>
             </a>
             <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
@@ -214,9 +202,7 @@
           <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
               <div class="panel-heading" role="tab" id="headingThree">
-                <h4 class="panel-title">
-                    Woman Harassment Committee
-                </h4>
+                <h4 style="color: #4587d9;">Woman Harassment Committee</h4>
               </div>
             </a>
             <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
@@ -239,9 +225,7 @@
           <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
               <div class="panel-heading" role="tab" id="headingThree">
-                <h4 class="panel-title">
-                    Anti Ragging Committee
-                </h4>
+                <h4 style="color: #4587d9;">Anti Ragging Committee</h4>
               </div>
             </a>
             <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
@@ -263,9 +247,7 @@
           <div class="panel panel-default">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
               <div class="panel-heading" role="tab" id="headingThree">
-                <h4 class="panel-title">
-                    Anti Ragging Squad
-                </h4>
+                <h4 style="color: #4587d9;">Anti Ragging Squad</h4>
               </div>
             </a>
             <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">

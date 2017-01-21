@@ -40,10 +40,10 @@
 		  <!-- Wrapper for slides -->
 		  <div class="carousel-inner" role="listbox">
 		    <div class="item active">
-		      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/1.jpg" alt="...">
+		      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/2.jpg" alt="...">
 		    </div>
 		    <div class="item">
-		      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/2.jpg" alt="...">
+		      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/1.jpg" alt="...">
 		    </div>
 		    <div class="item">
 		      <img class="w-100 border_radius img-responsive hero-image" src="<?php echo base_url() ?>images/carousels/3.jpg" alt="...">

@@ -64,7 +64,7 @@
                     <p><strong>Clinical</strong></p>
                     </td>
                     <td>
-                    <p><strong>( In hrs)</strong></p>
+                    <p><strong>(In hrs)</strong></p>
                     </td>
                     </tr>
                     <tr>

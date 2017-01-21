@@ -30,6 +30,12 @@
           </div>
           <div style="padding: 20px" class="col-md-6">
           	<center>
+	            <img src="<?php echo base_url()?>/images/leaders/Jawahar Nessan.jpg" alt="">
+	            <h4 style="margin: 10px 0;">Vice Chancellor: Dr.Jawahar Nesan</h4>
+            </center>
+          </div>
+          <div style="padding: 20px" class="col-md-6">
+          	<center>
 	            <img src="<?php echo base_url()?>/images/leaders/Dirctor-Thiyagarajan.jpg" alt="">
 	            <h4 style="margin: 10px 0;">Registrar: Dr.Thiyagarajan</h4>
             </center>

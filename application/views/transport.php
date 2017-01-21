@@ -28,7 +28,7 @@
           <li>•	Hi – tech Air Buses are operated in all routes to ensure hi-class and comfortable travel for the students</li>
           <li>•	Separate transport department is functioning for student’s welfare</li>
         </ul>
-        <a href="<?php echo base_url()?>/images/Bus_Routes_2016_17.pdf" target="_blank"><h4>Click Here for all Bus Routes</h4></a>
+        <a style="color: #4587d9;" href="<?php echo base_url()?>/images/Bus_Routes_2016_17.pdf" target="_blank"><h4 style="font-weight: bold;">Click Here for all Bus Routes</h4></a>
       </div>
     </div>
   </div>

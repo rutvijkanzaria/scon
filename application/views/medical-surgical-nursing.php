@@ -87,7 +87,7 @@
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
               <div class="panel-heading" role="tab" id="headingTwo">
                 <h4 class="panel-title">
-                    Faculties
+                    Faculty
                 </h4>
               </div>
             </a>
@@ -109,7 +109,7 @@
                   <div class="profile bottom25">
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Thenmozhi.P.jpeg" alt="Course"></div>
                     <div class="profile_text">
-                      <h5><strong>MRS. THENMOZHI. P</strong>  -  <span>Associate Professor</span></h5>
+                      <h5><strong>MRS. THENMOZHI. P</strong>  -  <span>Assistant Professor</span></h5>
                       <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Thenmozhi">
                         Know more..
                       </button>
@@ -119,7 +119,7 @@
                   <div class="profile bottom25">
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Ms.Varalakshmi.jpg" alt="Course"></div>
                     <div class="profile_text">
-                      <h5><strong>MS. VARALAKSHMI. E</strong>  -  <span>Associate Professor</span></h5>
+                      <h5><strong>MS. VARALAKSHMI. E</strong>  -  <span>Assistant Professor</span></h5>
                       <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#VARALAKSHMI">
                         Know more..
                       </button>
@@ -129,7 +129,7 @@
                   <div class="profile bottom25">
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mr. Ruban David.jpg" alt="Course"></div>
                     <div class="profile_text">
-                      <h5><strong>MR. RUBAN DAVID</strong>  -  <span>Associate Professor</span></h5>
+                      <h5><strong>MR. RUBAN DAVID</strong>  -  <span>Assitant Professor</span></h5>
                       <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#RUBAN">
                         Know more..
                       </button>

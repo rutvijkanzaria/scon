@@ -45,7 +45,7 @@
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
               <div class="panel-heading" role="tab" id="headingTwo">
                 <h4 class="panel-title">
-                    Faculties
+                    Faculty
                 </h4>
               </div>
             </a>
@@ -56,7 +56,7 @@
                   <div class="profile bottom25">
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Mary Minolin.jpeg" alt="Course"></div>
                     <div class="profile_text">
-                      <h5><strong>Mrs. Mary Minolin</strong>  -  <span>Associate Professor</span></h5>
+                      <h5><strong>Mrs. Mary Minolin</strong>  -  <span>HOD & Associate Professor</span></h5>
                       <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Mary">
                         Know more..
                       </button>

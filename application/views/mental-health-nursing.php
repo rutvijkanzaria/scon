@@ -45,7 +45,7 @@
 				    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 				      <div class="panel-heading" role="tab" id="headingTwo">
 				        <h4 class="panel-title">
-				            Faculties
+				            Faculty
 				        </h4>
 				      </div>
 				    </a>
@@ -83,7 +83,7 @@
 									</div>
 
 									<div class="profile bottom25">
-										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Bhuvaneswari.jpeg" alt="Course"></div>
+										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Thephilah cathrine.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs. R. Thephilah Cathrine</strong>  -  <span>Tutor</span></h5>
 											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Thephilah">
@@ -93,7 +93,7 @@
 									</div>
 
 									<div class="profile bottom25">
-										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Thephilah cathrine.jpg" alt="Course"></div>
+										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Ms.Arul Annuncia.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Ms. D. Arul Annuncia</strong>  -  <span>Tutor</span></h5>
 											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Arul">

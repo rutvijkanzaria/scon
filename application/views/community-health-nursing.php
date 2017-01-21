@@ -45,7 +45,7 @@
 				    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 				      <div class="panel-heading" role="tab" id="headingTwo">
 				        <h4 class="panel-title">
-				            Faculties
+				            Faculty
 				        </h4>
 				      </div>
 				    </a>

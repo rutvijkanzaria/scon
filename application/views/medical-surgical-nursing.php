@@ -55,7 +55,7 @@
                 <p>Medical and surgical nursing department is offering elective courses like</p>
                 <div class="row">
                   <div class="col-sm-6">
-                    <ul class="bullet_list">
+                    <ul class="">
                       <li>Diabetic nurse educator</li>
                       <li>Dialysis nurse specialist</li>
                     </ul>
@@ -67,13 +67,13 @@
                 <p>Our department has unique student evaluation methods like</p>
                 <div class="row">
                   <div class="col-sm-6">
-                    <ul class="bullet_list">
+                    <ul class="">
                       <li>OSPE</li>
                       <li>Quantum assessment</li>
                     </ul>
                   </div>
                   <div class="col-sm-6">
-                    <ul class="bullet_list">
+                    <ul class="">
                       <li>OSCE</li>
                       <li>Self assessment method, which will create more interest among students in learning and improving their skills</li>
                     </ul>
@@ -208,7 +208,7 @@
             </a>
             <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
               <div class="panel-body">
-                <ul class="bullet_list margin10">
+                <ul class=" margin10">
                   <li>Oncology Nursing</li>
                   <li>Cardio Thoracic Nursing</li>
                   <li>Critical Care Nursing</li>

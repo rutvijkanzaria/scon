@@ -83,12 +83,12 @@
       <div class="col-sm-10 col-sm-offset-1 course_detail wow fadeIn" data-wow-delay="400ms">
         <h3 class="top30 bottom20">Hostels</h3>
         <ul class="bottom25">
-          <li>•	Serrate  Luxurious Hostel for Boys& Girls –24 hours water supply, RO drinking water</li>
-          <li>•	Nursing students hostel consists of 130 rooms with adequate bathroom facility</li>
-          <li>•	Wi-fi enabled hostel</li>
-          <li>•	Recreation facility with indoor games and  outdoor games</li>
-          <li>•	Common gym facility available inside the campus</li>
-          <li>•	Modern kitchen, Veg/Non –Veg mess Cafeteria, RO Drinking Water</li>
+          <li> 	Serrate  Luxurious Hostel for Boys& Girls –24 hours water supply, RO drinking water</li>
+          <li> 	Nursing students hostel consists of 130 rooms with adequate bathroom facility</li>
+          <li> 	Wi-fi enabled hostel</li>
+          <li> 	Recreation facility with indoor games and  outdoor games</li>
+          <li> 	Common gym facility available inside the campus</li>
+          <li> 	Modern kitchen, Veg/Non –Veg mess Cafeteria, RO Drinking Water</li>
         </ul>
       </div>
     </div>

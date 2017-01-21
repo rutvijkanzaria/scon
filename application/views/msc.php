@@ -27,9 +27,9 @@
         </p>
         <h3 class="top30 bottom20">Best Practices</h3>
         <ul class="bottom25">
-          <li>•	Inter professional learning and research</li>
-          <li>•	Interdisciplinary learning</li>
-          <li>•	Action research </li>
+          <li> 	Inter professional learning and research</li>
+          <li> 	Interdisciplinary learning</li>
+          <li> 	Action research </li>
         </ul>
         <h3 class="top30 bottom20">Curriculum and Year Plan</h3>
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">

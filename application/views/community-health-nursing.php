@@ -56,6 +56,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Dr.Sahbanathul Missirriya.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Dr. Mrs. Sahbnathul Missiriya</strong>  -  <span>Professor & HOD</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Sahbnathul">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -63,6 +66,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Mahalakshmi.T.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs. T. Mahalakshmi</strong>  -  <span>Associate Professor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Mahalakshmi">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -70,6 +76,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Tamilselvi.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs. S. Tamil Selvi</strong>  -  <span>Associate Professor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Tamil">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -77,6 +86,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Bhuvaneswari.jpeg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs. G. Bhuvaneswari</strong>  -  <span>Associate Professor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Bhuvaneswari">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -84,6 +96,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.vimala.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs. Vimala</strong>  -  <span>Tutor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Vimala">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -126,3 +141,207 @@
 	</div>
 </section>
 <!-- Courses -->
+
+<div class="modal fade" id="Sahbnathul" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Dr. Mrs. Sahbnathul Missiriya</strong>  -  <span>Professor & HOD</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Community Health Nursing, Ph.D</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<ul>
+				<li>A thorough Teaching professional of Nursing for BSc(N), Post Basic BSc(N) &amp; MSc(N) Students of Various Subjects such as Community Health Nursing, Communication Education and Technology, Nursing Foundations, Mental Health, Obstetrics &amp; Gynecological Nursing, Nursing Education, Nursing Administration &amp; Nursing Research with <strong>20 Year</strong>s of experience with ability of handling Smart Board, Innovative Teaching Learning initiatives, Simulation assisted teaching, Context based learning, MILA, Self Learning Assessment module, Web forum discussion etc</li>
+				<li>Guiding the students and scholars in research</li>
+				<li>Organizing and conducting Community health services and programmes</li>
+				<li>Conducting conferences and guest lecture</li>
+				<li>Motivating subordinates in research</li>
+				<li>Member in board of studies</li>
+				<li>Coordinator in academic programme and research alliance committee</li>
+				<li>Examiner for UG and PG students</li>
+				</ul>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Community Health Nursing, Nutrition, Epidemiology, Nursing Education and research</p>
+				<p><strong>AWARDS &amp; ACHIEVEMENTS</strong></p>
+				<ul>
+				<li><strong>BEST PAPER AWARD</strong>. Conference on Excellence in nursing research, MSAJ College of Nursing, Chennai. 22 Jan 2014.</li>
+				<li><strong>CASH AWARD &ndash;</strong>PUBLICATIONS: Every Year since 2010</li>
+				</ul>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li><strong>Editorial Board Member</strong></li>
+				</ul>
+				<ul>
+				<li>Board of Studies</li>
+				<li>Curriculum Committee</li>
+				<li>Anti-ragging Committee</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Mahalakshmi" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mrs. T. Mahalakshmi</strong>  -  <span>Associate Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Community Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<ul>
+				<li>Delivering lectures for U.G and P.G students</li>
+				<li>Guiding students for research activities</li>
+				<li>Evaluating the students in both theory and practical</li>
+				<li>Supervising the students in the clinical area</li>
+				</ul>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Health Nursing, Research</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Journal Club</li>
+				<li>Disciplinary Committee</li>
+				<li>Environmental Committee</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Tamil" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mrs. S. Tamil Selvi</strong>  -  <span>Associate Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Community Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<ul>
+				<li>Community Health Nursing Subject In charge- B.Sc. Nursing II year, Post basicB.Sc.(N)&nbsp; II year</li>
+				<li>Taking classes on community Health Nursing, Research&amp;Biostatistics, Advanced Nursing Practice</li>
+				<li>Supervising the students in clinical Area</li>
+				<li>Guiding students in Research Activity</li>
+				</ul>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Health Nursing ,Research</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Red Ribbon Club</li>
+				<li>Youth Red Cross</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Bhuvaneswari" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mrs. G. Bhuvaneswari</strong>  -  <span>Associate Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Community Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<ul>
+				<li>Community Health Nursing Subject In charge- B.Sc. Nursing II year,</li>
+				<li>Taking classes on community Health Nursing</li>
+				<li>Supervising the students in clinical Area</li>
+				<li>Guiding students in Research Activity</li>
+				</ul>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Health Nursing ,Research</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Gender Champion Club</li>
+				<li>Women Empowerment Committee</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Vimala" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mrs. Vimala</strong>  -  <span>Tutor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) Community Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<ul>
+				<li>Teaching- Community Health Nursing subjects to B.Sc. II Year. ANP-&nbsp; Sc ( N) I year.</li>
+				<li>sc II year(A-batch) Class Co-ordinator.</li>
+				<li>Clinical supervision - II yr B.sc Nursing and B.SC IV year</li>
+				</ul>
+				<p>&nbsp;</p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Health nursing research</p>
+				<p><strong>AWARDS &amp; ACHIEVEMENTS</strong></p>
+				<p>Received cash prize by Saveetha University for SCOPUS publication&rsquo;2016</p>
+				<p>&nbsp;</p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li><strong>Public and community outreach committee </strong></li>
+				<li><strong>Journal Club</strong></li>
+				<li><strong>Transport In-Charge, SCON</strong></li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

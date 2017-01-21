@@ -27,15 +27,15 @@
         </p>
         <h3 class="top30 bottom20">Best Practices</h3>
         <ul class="bottom25">
-          <li>•	24X7 hours teaching learning method namely web forum discussion and self assessment module</li>
-          <li>•	Job oriented skill training and elective courses for global placements</li>
-          <li>•	Simulation Corner – Hands on training to enhance clinical skills</li>
-          <li>•	Innovative teaching methods like CBL, MILA, IPL, etc.. to enrich students learning</li>
-          <li>•	Inter-Professional Clinical Practice for Undergraduate Students</li>
-          <li>•	Yoga  & Soft Skill training for enhancing cognitive skill</li>
-          <li>•	Individual student project & publication by undergraduate student</li>
-          <li>•	Inter- Professional community Practice </li>
-          <li>•	Active participation in YRC & RRC</li>
+          <li> 	24X7 hours teaching learning method namely web forum discussion and self assessment module</li>
+          <li> 	Job oriented skill training and elective courses for global placements</li>
+          <li> 	Simulation Corner – Hands on training to enhance clinical skills</li>
+          <li> 	Innovative teaching methods like CBL, MILA, IPL, etc.. to enrich students learning</li>
+          <li> 	Inter-Professional Clinical Practice for Undergraduate Students</li>
+          <li> 	Yoga  & Soft Skill training for enhancing cognitive skill</li>
+          <li> 	Individual student project & publication by undergraduate student</li>
+          <li> 	Inter- Professional community Practice </li>
+          <li> 	Active participation in YRC & RRC</li>
         </ul>
         <h3 class="top30 bottom20">Curriculum </h3>
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">

@@ -57,6 +57,9 @@
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Mary Minolin.jpeg" alt="Course"></div>
                     <div class="profile_text">
                       <h5><strong>Mrs. Mary Minolin</strong>  -  <span>Associate Professor</span></h5>
+                      <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Mary">
+                        Know more..
+                      </button>
                     </div>
                   </div>
 
@@ -64,6 +67,9 @@
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Beautily.jpg" alt="Course"></div>
                     <div class="profile_text">
                       <h5><strong>MRS. BEAUTILY</strong>  -  <span>ASSISTANT PROFESSOR</span></h5>
+                      <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#BEAUTILY">
+                        Know more..
+                      </button>
                     </div>
                   </div>
 
@@ -71,6 +77,9 @@
                     <div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Meena.jpg" alt="Course"></div>
                     <div class="profile_text">
                       <h5><strong>MRS. MEENA</strong>  -  <span>ASSISTANT PROFESSOR</span></h5>
+                      <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#MEENA">
+                        Know more..
+                      </button>
                     </div>
                   </div>
 
@@ -89,7 +98,7 @@
             <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
               <div class="panel-body">
                 <p class="margin10">The mannequin is helpful for the students to practice the procedure like insertion of IV cannula, colostomy care, Exchange transfusion, umbilical cord catheterization in the lab, so that it makes the students to practice independently in the clinical setup Students are getting opportunities to perform pediatric procedures in simulation corner, self-learning Desk in the lab which helps to improve students’ knowledge attitude, skill and prepare them at global level. Following Simulation models are present in the lab.</p>
-                <ul class="bullet_list margin10">
+                <ul class="  margin10">
                   <li>Intravenous arm</li>
                   <li>Advance Baby Mannequin</li>
                 </ul>
@@ -120,7 +129,7 @@
             </a>
             <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
               <div class="panel-body">
-                <ul class="bullet_list margin10">
+                <ul class="  margin10">
                   <li>Adolescent Health</li>
                   <li>Learning disability</li>
                   <li>New Born care</li>
@@ -135,3 +144,122 @@
   </div>
 </section>
 <!-- Courses -->
+
+
+<div class="modal fade" id="Mary" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+          <h5><strong>Mrs. Mary Minolin</strong>  -  <span>Associate Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+        <p><strong>ACADEMIC QUALIFICATION</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Child Health Nursing.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+<ul>
+<li>Delivering lectures for under graduate and postgraduate by using innovative teaching methods</li>
+<li>Guiding students for research activities</li>
+<li>Evaluating the students in both theory and practical</li>
+<li>Supervising the students in the clinical area</li>
+<li>Couselling the needed student</li>
+<li>Conducting the research based on the need in the current scenario</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p><strong>EXPERTISE</strong></p>
+<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Child Health Nursing Research,</p>
+<p>&nbsp;</p>
+<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+<ul>
+<li>Mentor for students</li>
+<li>Curriculum Committee</li>
+<li>Board of Studies</li>
+<li>IQAC Committee</li>
+<li>Education &amp; Technology Committee</li>
+</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="BEAUTILY" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+          <h5><strong>MRS. BEAUTILY</strong>  -  <span>ASSISTANT PROFESSOR</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+        <p><strong>ACADEMIC QUALIFICATION</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Child Health Nursing.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+<ul>
+<li>Teaching- Child Health Nursing subjects to B.Sc. III Year &amp; P.B.B.sc II year, ANP &amp; Nursing Education &ndash;M.SC(N) I year</li>
+<li>Clinical supervision - III yr B.sc Nursing, P.B.BSc(N) and B.SC IV year Internship</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p><strong>EXPERTISE</strong></p>
+<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Child Health Nursing Research,</p>
+<p>&nbsp;</p>
+<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+<ul>
+<li>Library committee</li>
+<li>Academic Council Member</li>
+</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="MEENA" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+          <h5><strong>MRS. MEENA</strong>  -  <span>ASSISTANT PROFESSOR</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+        <p><strong>ACADEMIC QUALIFICATION</strong></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Child Health Nursing.</p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+        <ul>
+        <li>Teaching- Child Health Nursing subjects to B.Sc. III Year &amp; P.B.B.sc II year, ANP &amp; Nursing Education &ndash;M.SC(N) I year</li>
+        <li>Incharge for final year Internship</li>
+        <li>Clinical supervision - III yr B.sc Nursing, P.B.BSc(N) and B.SC IV year Internship</li>
+        </ul>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>EXPERTISE</strong></p>
+        <p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Child Health Nursing Research,</p>
+        <p>&nbsp;</p>
+        <p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+        <ul>
+        <li>Library committee</li>
+        <li>SNA Committee</li>
+        <li>Health Committee</li>
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

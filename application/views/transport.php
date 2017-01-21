@@ -24,9 +24,9 @@
         <img src="<?php echo base_url() ?>images/transport.jpg" alt="Course" class=" border_radius img-responsive bottom15 hero-image">
         <h3 class="top30 bottom20">Transport with Bus route</h3>
         <ul class="bottom25">
-          <li>•	Transport facility is provided from all parts of Chennai and its suburbs. </li>
-          <li>•	Hi – tech Air Buses are operated in all routes to ensure hi-class and comfortable travel for the students</li>
-          <li>•	Separate transport department is functioning for student’s welfare</li>
+          <li> 	Transport facility is provided from all parts of Chennai and its suburbs. </li>
+          <li> 	Hi – tech Air Buses are operated in all routes to ensure hi-class and comfortable travel for the students</li>
+          <li> 	Separate transport department is functioning for student’s welfare</li>
         </ul>
         <a href="<?php echo base_url()?>/images/Bus_Routes_2016_17.pdf" target="_blank"><h4>Click Here for all Bus Routes</h4></a>
       </div>

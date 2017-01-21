@@ -58,7 +58,10 @@
 								<div class="profile bottom25">
 									<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Ms.Parimalaa.jpg" alt="Course"></div>
 									<div class="profile_text">
-										<h5><strong>Ms. Parimala.L</strong>  -  <span>Associate Professor</span></h5>
+										<h5><strong>Ms. Parimala.L</strong>  -  <span>HOD & Associate Professor</span></h5>
+										<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Parimala">
+										  Know more..
+										</button>
 									</div>
 								</div>
 
@@ -66,6 +69,9 @@
 									<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mr. Solomon VijayaKumaar.jpg" alt="Course"></div>
 									<div class="profile_text">
 										<h5><strong>Mr.Solomon Vijayakumar.M</strong>  -  <span>Associate Professor</span></h5>
+										<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Solomon">
+										  Know more..
+										</button>
 									</div>
 								</div>
 
@@ -73,6 +79,9 @@
 									<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Jasila Abraham.jpg" alt="Course"></div>
 									<div class="profile_text">
 										<h5><strong>Mrs. Jasila Abraham</strong>  -  <span>Tutor</span></h5>
+										<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Jasila">
+										  Know more..
+										</button>
 									</div>
 								</div>
 							</div>
@@ -93,7 +102,7 @@
 								</p>
 								<ol>
 									<li>MILA (Multi interactive Learning Algorithm) sessions - consisting of 20 minutes lecture class followed by 20 minutes of self learning activities by the students, based on the following 9 strategies.
-										<ul class="bullet_list margin10">
+										<ul class="  margin10">
 							                <li>SCALE UP-Student centric activity learning environment Small Groups- Activity focused on students specific issues</li>
 							                <li>POGIL- Process Oriented Guided Inquiry Learning  (Guiding the search for solutions to questions)</li>
 							                <li>CONCEPT MAPPING- (Group session to interrelate concepts)</li>
@@ -134,7 +143,7 @@
 								The nursing foundations lab is  a 10 bedded lab  measuring 1500 sqft is well ventilated and spacious, is   furnished  with latest and suitable  equipments, instruments and mannequins - viz stainless steel ,glass,  aluminum, enamel , rubber, plastic articles. The lab is well stocked with adequate linen to master their clinical skills
 								</p>
 								<p class="margin10">The Laboratory is equipped with</p>
-								<ul class="bullet_list margin10">
+								<ul class="  margin10">
 		                <li>CPR mannequins with rhythm recognizer</li>
 		                <li>Unisex multi task mannequins</li>
 		                <li>Catheterization mannequins</li>
@@ -150,3 +159,118 @@
 	</div>
 </section>
 <!-- Courses -->
+
+<div class="modal fade" id="Parimala" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Ms. Parimala.L</strong>  -  <span>HOD & Associate Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>M.Sc.(N) &ndash; Medical Surgical Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<ul>
+				<li>Co-ordinator for B.Sc Nursing I Year</li>
+				<li>Nursing Foundation - B.Sc Nursing I Year</li>
+				<li>Nursing Research,- B.Sc. Nursing III year, M.Sc Nursing I Year and Post Basic B.Sc Nursing</li>
+				<li>Nursing Management - M.Sc. Nursing</li>
+				<li>Member of Board of studies</li>
+				<li>Member of various&nbsp; committees</li>
+				</ul>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medical Surgical Nursing, Research in various hospitals</p>
+				<p>&nbsp;</p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Mentor for students</li>
+				<li>Board of Studies</li>
+				<li>Curriculum Committee</li>
+				<li>Disciplinary Committee</li>
+				<li>Anti-ragging Committee</li>
+				<li>IQAC Committee</li>
+				<li>Planning and Monitoring Committee</li>
+				<li>Secretary, ALUMNI Association, SCON, SU</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Solomon" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mr.Solomon Vijayakumar.M</strong>  -  <span>Associate Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>M.Sc.(N) &ndash; Medical Surgical Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<p>Theory and Clinical Supervision For B.Sc&nbsp; Nursing I Year</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Medical Surgical Nursing/ Critical Care Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Mentor for students</li>
+				<li>IT Committee</li>
+				<li>Sports Committee</li>
+				<li>Environmental Committee</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Jasila" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mrs. Jasila Abraham</strong>  -  <span>Tutor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>M.Sc.(N) &ndash; Medical Surgical Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<p>Theory and Clinical Supervision For B.Sc&nbsp; Nursing I Year</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Medical Surgical Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Mentor for students</li>
+				<li>Cultural Committee</li>
+				<li>Sports Committee</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

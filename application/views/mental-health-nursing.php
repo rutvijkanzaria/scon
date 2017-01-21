@@ -56,6 +56,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Dr.Subharani.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Dr. P. Subha Rani</strong>  -  <span>HOD & Associate Professor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Subha">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -63,6 +66,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Mahalakshmi.T.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs. S. Sujithra</strong>  -  <span>Assistant Professor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Sujithra">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -70,6 +76,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mr.Alfred Solomon.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mr. D. Alfred Solomon</strong>  -  <span>Senior Tutor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Alfred">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -77,6 +86,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Bhuvaneswari.jpeg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs. R. Thephilah Cathrine</strong>  -  <span>Tutor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Thephilah">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -84,6 +96,9 @@
 										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Thephilah cathrine.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Ms. D. Arul Annuncia</strong>  -  <span>Tutor</span></h5>
+											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Arul">
+											  Know more..
+											</button>
 										</div>
 									</div>
 
@@ -126,3 +141,177 @@
 	</div>
 </section>
 <!-- Courses -->
+
+<div class="modal fade" id="Subha" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Dr. P. Subha Rani</strong>  -  <span>HOD & Associate Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Mental Health Nursing, Ph.D</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<p>Delivering Lectures for UG &amp; PG students</p>
+				<p>Guiding research for PG students</p>
+				<p>Handling Nursing Education &amp; Research for UG &amp; PG students</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Board of Studies</li>
+				<li>Curriculum Committee</li>
+				<li>Anti-ragging Committee</li>
+				<li>Sexual Harrassment Committee</li>
+				<li>Students Mentor</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Sujithra" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mrs. S. Sujithra</strong>  -  <span>Assistant Professor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Mental Health Nursing, Ph.D</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES </strong></p>
+				<p>Handling Classes for UG &amp; PG students</p>
+				<p>Guiding research projects for PG students</p>
+				<p>Handling Nursing Education &amp; Research for UG &amp; PG students</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Students Mentor</li>
+				<li>Sports Committee&hellip;.</li>
+				<li>Cultural Committee</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Alfred" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mr. D. Alfred Solomon</strong>  -  <span>Senior Tutor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+				<p>Theory and Clinical Supervision For B.Sc. III Year&nbsp; Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Students Mentor</li>
+				<li>Health Committee</li>
+				<li>Sports Committee&hellip;.</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Thephilah" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Mrs. R. Thephilah Cathrine</strong>  -  <span>Tutor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+				<p>Theory and Clinical Supervision For B.Sc. III Year&nbsp; Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Students Mentor</li>
+				<li>Health Committee</li>
+				<li>Sports Committee&hellip;.</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="Arul" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">
+					<h5><strong>Ms. D. Arul Annuncia</strong>  -  <span>Tutor</span></h5>
+        </h4>
+      </div>
+      <div class="modal-body">
+				<p><strong>ACADEMIC QUALIFICATION</strong></p>
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.Sc.(N) &ndash; Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>CURRENT ACADEMIC ROLE &amp; RESPONSIBILITIES</strong></p>
+				<p>Theory and Clinical Supervision For B.Sc. III Year&nbsp; Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>EXPERTISE</strong></p>
+				<p><strong>AREAS OF INTEREST, EXPERTISE</strong></p>
+				<p>Mental Health Nursing</p>
+				<p><strong>&nbsp;</strong></p>
+				<p><strong>ADDITIONAL RESPONSIBILITIES</strong></p>
+				<ul>
+				<li>Students Mentor</li>
+				</ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

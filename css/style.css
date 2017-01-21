@@ -195,8 +195,8 @@ p{
 
 ol, ul{
 	margin:0;
-	padding:0;
-	list-style:none;
+	/*padding:0;*/
+	/*list-style:none;*/
 }
 ::-webkit-input-placeholder, .form-control::-webkit-input-placeholder{
    color:#b5b5b5;

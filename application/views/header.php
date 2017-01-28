@@ -52,14 +52,14 @@
       </div>
     </div>
     <div style="padding: 15px 0; margin: 0" class="row">
-      <div style="padding: 5px;" class="col-sm-2">
+      <div style="padding: 5px;" class="col-sm-3">
 	      <a href="<?php echo base_url() ?>">
           <img style="width: 100%" src="<?php echo base_url()?>/images/sconlogo.png">
         </a>
       </div>
-      <div style="padding: 5px;" class="col-sm-offset-7 col-sm-3">
-	      <a href="<?php echo base_url() ?>">
-          <img style="width: 100%" src="<?php echo base_url()?>/images/sulogo.png">
+      <div style="padding: 5px;" class="col-sm-offset-6 col-sm-3">
+	      <a href="http://saveetha.com/" target="_blank">
+          <img style="width: 100%; padding-top: 15px" src="<?php echo base_url()?>/images/sulogo.png">
         </a>
       </div>
     </div>
@@ -134,6 +134,7 @@
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >STUDENT LIFE</a>
             <ul class="dropdown-menu">
               <li><a href="<?php echo base_url()?>student/events">Events</a></li>
+              <li><a href="<?php echo base_url()?>student/days_celebrations">Days Celebration</a></li>
               <li><a href="<?php echo base_url()?>student/photos">Photo Gallery</a></li>
               <li><a href="<?php echo base_url()?>student/clubs">Student Clubs</a></li>
             </ul>
@@ -150,6 +151,7 @@
           <!-- <li><a href="#">STUDENT LIFE</a></li> -->
           <!-- <li><a href="#">Alumni</a></li> -->
           <li class="<?php if($active_page == 'hospital') echo 'active' ?>"><a href="<?php echo base_url()?>hospital">HOSPITAL</a></li>
+          <li><a href="<?php echo base_url()?>docs/nirf.pdf" target="_blank">NIRF</a></li>
         </ul>
       </div>
     </div>

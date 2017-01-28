@@ -14,6 +14,17 @@ class Student extends CI_Controller {
 		$this->load->view('footer', $data);
 	}
 
+	public function days_celebrations()
+	{
+    $data = array(
+      'active_page' => 'student'
+    );
+
+		$this->load->view('header', $data);
+		$this->load->view('days');
+		$this->load->view('footer', $data);
+	}
+
 	public function photos()
 	{
     $data = array(

@@ -63,7 +63,7 @@
 									</div>
 
 									<div class="profile bottom25">
-										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Mrs.Mahalakshmi.T.jpg" alt="Course"></div>
+										<div class="p_pic"><img src="<?php echo base_url() ?>images/faculty/Sujithra.jpg" alt="Course"></div>
 										<div class="profile_text">
 											<h5><strong>Mrs. S. Sujithra</strong>  -  <span>Assistant Professor</span></h5>
 											<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#Sujithra">

@@ -382,7 +382,7 @@
 
 
 <!-- Courses -->
-<section id="courses" class="padding parallax" style="display:none">
+<section id="courses" class="padding parallax">
   <div class="container">
     <div class="row">
       <div class="col-md-12 wow fadeInDown">
@@ -393,53 +393,22 @@
       <div class="col-md-12">
         <div class="slider_wrapper">
           <div id="course_slider" class="owl-carousel">
+            
             <div class="item">
               <div class="image bottom20">
-                <img src="images/home/5.jpg" alt="Courses" class="img-responsive border_radius">
+                <img style="max-height: 250px" src="images/announcements/2.jpg" alt="Courses" class="img-responsive border_radius">
               </div>
-              <h3 class="bottom15"><a href="#">Sed gravida eros ut</a></h3>
-              <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p>
-              <a href="#" class="btn_common blue border_radius">Read More</a>
+              <h3 class="bottom15"><a href="<?php echo base_url()?>docs/announcements/national.pdf" target="_blank">National Conference</a></h3>
+              <!-- <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p> -->
+              <a href="<?php echo base_url()?>docs/announcements/national.pdf" target="_blank" class="btn_common blue border_radius">Read More</a>
             </div>
             <div class="item">
               <div class="image bottom20">
-                <img src="images/home/6.jpg" alt="Courses" class="img-responsive border_radius">
+                <img style="max-height: 250px" src="images/announcements/1.jpg" alt="Courses" class="img-responsive border_radius">
               </div>
-              <h3 class="bottom15"><a href="#">Sed gravida eros ut</a></h3>
-              <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p>
-              <a href="#" class="btn_common blue border_radius">Read More</a>
-            </div>
-            <div class="item">
-              <div class="image bottom20">
-                <img src="images/home/7.jpg" alt="Courses" class="img-responsive border_radius">
-              </div>
-              <h3 class="bottom15"><a href="#">Sed gravida eros ut</a></h3>
-              <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p>
-              <a href="#" class="btn_common blue border_radius">Read More</a>
-            </div>
-            <div class="item">
-              <div class="image bottom20">
-                <img src="images/home/5.jpg" alt="Courses" class="img-responsive border_radius">
-              </div>
-              <h3 class="bottom15"><a href="#">Sed gravida eros ut</a></h3>
-              <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p>
-              <a href="#" class="btn_common blue border_radius">Read More</a>
-            </div>
-            <div class="item">
-              <div class="image bottom20">
-                <img src="images/home/6.jpg" alt="Courses" class="img-responsive border_radius">
-              </div>
-              <h3 class="bottom15"><a href="#">Sed gravida eros ut</a></h3>
-              <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p>
-              <a href="#" class="btn_common blue border_radius">Read More</a>
-            </div>
-            <div class="item">
-              <div class="image bottom20">
-                <img src="images/home/7.jpg" alt="Courses" class="img-responsive border_radius">
-              </div>
-              <h3 class="bottom15"><a href="#">Sed gravida eros ut</a></h3>
-              <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p>
-              <a href="#" class="btn_common blue border_radius">Read More</a>
+              <h3 class="bottom15"><a href="<?php echo base_url()?>docs/announcements/district.pdf" target="_blank">District Level Workshop</a></h3>
+              <!-- <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p> -->
+              <a href="<?php echo base_url()?>docs/announcements/district.pdf" target="_blank" class="btn_common blue border_radius">Read More</a>
             </div>
           </div>
         </div>

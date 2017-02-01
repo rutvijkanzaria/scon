@@ -44,11 +44,11 @@
         <span class="info"><i class="icon-phone2"></i>044 - 6672 6620</span>
         <span class="info"><i class="icon-mail"></i>principalnursing@saveetha.com</span>
         </div>
-        <ul class="social_top pull-right">
+        <!-- <ul class="social_top pull-right">
           <li><a href="#."><i class="fa fa-facebook"></i></a></li>
           <li><a href="#."><i class="icon-twitter4"></i></a></li>
           <li><a href="#."><i class="icon-google"></i></a></li>
-        </ul>
+        </ul> -->
       </div>
     </div>
     <div style="padding: 15px 0; margin: 0" class="row">
@@ -139,7 +139,13 @@
               <li><a href="<?php echo base_url()?>student/clubs">Student Clubs</a></li>
             </ul>
           </li>
-          <li class="<?php if($active_page == 'research') echo 'active' ?>"><a href="<?php echo base_url()?>research">RESEARCH</a></li>
+          <!-- <li class="<?php if($active_page == 'research') echo 'active' ?>"><a href="<?php echo base_url()?>research">RESEARCH</a></li> -->
+          <li class="dropdown <?php if($active_page == 'research') echo 'active' ?>">
+            <a href="<?php echo base_url()?>research" class="dropdown-toggle" data-toggle="dropdown" >Research</a>
+            <ul class="dropdown-menu">
+              <li><a href="<?php echo base_url()?>docs/Publication.pdf" target="_blank">Publications</a></li>
+            </ul>
+          </li>
           <li class="<?php if($active_page == 'alumni') echo 'active' ?>"><a href="<?php echo base_url()?>alumni">Alumni</a></li>
           <li class="dropdown <?php if($active_page == 'community') echo 'active' ?>">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Community Centre</a>

@@ -396,7 +396,23 @@
             
             <div class="item">
               <div class="image bottom20">
+                <img style="max-height: 250px" src="images/announcements/1.jpg" alt="Courses" class="img-responsive border_radius">
+              </div>
+              <h3 class="bottom15"><a href="<?php echo base_url()?>docs/announcements/international.pdf" target="_blank">International Nursing Conference</a></h3>
+              <!-- <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p> -->
+              <a href="<?php echo base_url()?>docs/announcements/international.pdf" target="_blank" class="btn_common blue border_radius">Read More</a>
+            </div>
+            <div class="item">
+              <div class="image bottom20">
                 <img style="max-height: 250px" src="images/announcements/2.jpg" alt="Courses" class="img-responsive border_radius">
+              </div>
+              <h3 class="bottom15"><a href="<?php echo base_url()?>images/announcements/2.jpg" target="_blank">Women's Day Celebrations</a></h3>
+              <!-- <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p> -->
+              <a href="<?php echo base_url()?>images/announcements/2.jpg" target="_blank" class="btn_common blue border_radius">Read More</a>
+            </div>
+            <div class="item">
+              <div class="image bottom20">
+                <img style="max-height: 250px" src="images/announcements/3.jpg" alt="Courses" class="img-responsive border_radius">
               </div>
               <h3 class="bottom15"><a href="<?php echo base_url()?>docs/announcements/national.pdf" target="_blank">National Conference</a></h3>
               <!-- <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p> -->
@@ -404,7 +420,7 @@
             </div>
             <div class="item">
               <div class="image bottom20">
-                <img style="max-height: 250px" src="images/announcements/1.jpg" alt="Courses" class="img-responsive border_radius">
+                <img style="max-height: 250px" src="images/announcements/4.jpg" alt="Courses" class="img-responsive border_radius">
               </div>
               <h3 class="bottom15"><a href="<?php echo base_url()?>docs/announcements/district.pdf" target="_blank">District Level Workshop</a></h3>
               <!-- <p class="bottom15">Vivamus magna tellus, pulvinar sed eleifend ac, posuere in urna. Suspendisse sem velit, auctor quis</p> -->

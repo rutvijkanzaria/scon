@@ -110,14 +110,8 @@
               <li><a href="<?php echo base_url()?>academics/msc">Post Graduation - M.Sc. Nursing</a></li>
             </ul>
           </li>
-          <li class="dropdown <?php if($active_page == 'admissions') echo 'active' ?>">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Admissions</a>
-            <ul class="dropdown-menu">
-              <li><a href="<?php echo base_url()?>admissions/why">Why Choose Us</a></li>
-              <li><a href="<?php echo base_url()?>admissions/courses">Courses Offered</a></li>
-              <li><a href="<?php echo base_url()?>admissions/apply">Apply</a></li>
-              <li><a href="<?php echo base_url()?>admissions/guidelines">Admission Guidelines</a></li>
-            </ul>
+          <li class="<?php if($active_page == 'admissions') echo 'active' ?>">
+            <a href="<?php echo base_url()?>admissions" >Admissions</a>
           </li>
           <li class="dropdown <?php if($active_page == 'dept') echo 'active' ?>">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >DEPARTMENTS</a>

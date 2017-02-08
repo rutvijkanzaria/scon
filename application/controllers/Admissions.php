@@ -2,6 +2,17 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Admissions extends CI_Controller {
+	public function index()
+	{
+    $data = array(
+      'active_page' => 'admissions'
+    );
+
+		$this->load->view('header', $data);
+		$this->load->view('admissions');
+		$this->load->view('footer', $data);
+	}
+
 	public function why()
 	{
     $data = array(

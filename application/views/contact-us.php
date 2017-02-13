@@ -20,7 +20,6 @@
 		<div class="row padding-bottom">
 			<div class="col-md-4 contact_address heading_space wow fadeInLeft" data-wow-delay="2000ms">
 				<h2 class="heading heading_space">Get in Touch <span class="divider-left"></span></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
 				<div class="address">
 					<i class="icon icon-map-pin border_radius"></i>
 					<h4>Visit Us</h4>
@@ -29,7 +28,7 @@
 				<div class="address">
 					<i class="icon icon-mail border_radius"></i>
 					<h4>Email Us</h4>
-					<p><a href="mailto:Edua@info.com">scon@info.com</a></p>
+					<p><a href="mailto:principalnursing@saveetha.com">principalnursing@saveetha.com</a></p>
 				</div>
 				<div class="address">
 					<i class="icon icon-phone4 border_radius"></i>
